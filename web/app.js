@@ -84,6 +84,8 @@
     idp_org: { label: "IDPs per partner", levels: ["adm1", "adm2"], ramp: "red",
       v: (l, c) => { const i = D.idp[l][c] || 0, o = orgsOf(l, c, state.sector); return i <= 0 ? null : o ? i / o : Infinity; },
       title: "IDPs per humanitarian partner (coverage gap)", sub: () => "IOM DTM ÷ OCHA 3W" },
+    pin: { label: "People in need", levels: ["adm1", "adm2"], ramp: "teal", v: (l, c) => D.response.pin?.[l]?.[c] ?? null,
+      title: () => `People in need (intersectoral) · ${D.response.pin?.year} plan`, sub: () => "OCHA humanitarian needs, via HDX HAPI" },
     rain: { label: "Rainfall vs average", levels: ["adm1", "adm2"], ramp: "rain", fixed: [60, 80, 95, 105, 120, 140], f: x => Math.round(x) + "%", diverging: true,
       v: (l, c) => D.rain[l][c]?.[state.rainK] ?? null,
       title: () => `Rainfall, % of long-term average · ${mlab(RM[state.rainK])}`, sub: () => "CHIRPS via WFP / HDX" },
@@ -94,7 +96,7 @@
     conflict: ["fat12", "ev12", "fatw"],
     food: ["ipc3", "ipc4", "ipc5"],
     markets: ["markets"],
-    response: ["orgs", "idp_org"],
+    response: ["orgs", "idp_org", "pin"],
     climate: ["rain"],
   };
   const periodLab = p => `${p.type === "current" ? "current" : "projection"} ${mlab(p.start.slice(0, 7))} – ${mlab(p.end.slice(0, 7))}`;

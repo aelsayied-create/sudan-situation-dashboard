@@ -267,13 +267,23 @@ def response():
             main[f["y"]] = f
     fund = [main[y] for y in sorted(main)]
     needs = {r["population_status"]: int(num(r["population"])) for r in rows("hapi_needs.csv") if r["admin_level"] == "0" and r["sector_code"] == "Intersectoral"}
-    needs_year = next((r["reference_period_start"][:4] for r in rows("hapi_needs.csv")), "")
+    needs_year = next((r["reference_period_start"][:4] for r in rows("hapi_needs.csv") if r["admin_level"] == "0"), "")
+    pin2, pin_year = defaultdict(int), ""
+    for r in rows("hapi_needs.csv"):
+        if r["admin_level"] == "2" and r["sector_code"] == "Intersectoral" and r["population_status"] == "INN" and r["category"] == "total":
+            pin2[r["admin2_code"]] += int(num(r["population"]))
+            pin_year = r["reference_period_start"][:4]
+    pin1 = defaultdict(int)
+    for r in rows("hapi_needs.csv"):
+        if r["admin_level"] == "2" and r["sector_code"] == "Intersectoral" and r["population_status"] == "INN" and r["category"] == "total":
+            pin1[r["admin1_code"]] += int(num(r["population"]))
     return {
         "period": period, "sectors": sectors, "national": nat_sector,
         "orgs": len({r["org_acronym"] for r in pres}), "org_types": {k: len(v) for k, v in orgs_type.items()},
         "adm1": {k: {s: len(v) for s, v in d.items()} for k, d in a1.items()},
         "adm2": {k: {s: len(v) for s, v in d.items()} for k, d in a2.items()},
         "funding": fund, "needs": {**needs, "year": needs_year},
+        "pin": {"year": pin_year, "adm1": dict(pin1), "adm2": dict(pin2)},
     }
 
 
