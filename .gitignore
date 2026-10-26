@@ -1,2 +1,4 @@
 __pycache__/
 .pytest_cache/
+# ACLED data is not redistributed: fetched and aggregated in CI only
+data/raw/hapi_conflict.csv

@@ -65,11 +65,11 @@
     returnees: { label: "Returnees", levels: ["adm1", "adm2"], ramp: "green", v: (l, c) => D.idp.returnees[l][c] || 0,
       title: "Returnees (IDPs and from abroad)", sub: () => `IOM DTM · ${D.idp.dtm.returnees_adm1 || ""}` },
     fat12: { label: "Fatalities (12 months)", levels: ["adm1", "adm2"], ramp: "red", v: (l, c) => conflictA(l, c, "f", i12),
-      title: "Reported fatalities from political violence", sub: () => `ACLED via HDX · ${mlab(N12[0])} – ${mlab(N12[11])}` },
+      title: "Reported fatalities from political violence", sub: () => `Source: ACLED (acleddata.com), aggregated via HDX, accessed ${D.meta.fetched} · ${mlab(N12[0])} – ${mlab(N12[11])}` },
     ev12: { label: "Events (12 months)", levels: ["adm1", "adm2"], ramp: "red", v: (l, c) => conflictA(l, c, "e", i12),
-      title: "Political violence events", sub: () => `ACLED via HDX · ${mlab(N12[0])} – ${mlab(N12[11])}` },
+      title: "Political violence events", sub: () => `Source: ACLED (acleddata.com) via HDX, accessed ${D.meta.fetched} · ${mlab(N12[0])} – ${mlab(N12[11])}` },
     fatw: { label: "Fatalities since Apr 2023", levels: ["adm1", "adm2"], ramp: "red", v: (l, c) => conflictA(l, c, "f", iWar),
-      title: "Reported fatalities since the war began", sub: () => `ACLED via HDX · Apr 2023 – ${mlab(CM[CM.length - 1])}` },
+      title: "Reported fatalities since the war began", sub: () => `Source: ACLED (acleddata.com) via HDX, accessed ${D.meta.fetched} · Apr 2023 – ${mlab(CM[CM.length - 1])}` },
     ipc3: { label: "% in IPC Phase 3+", levels: ["adm1", "adm2"], ramp: "ipc", fixed: [10, 20, 30, 40, 50], f: pctf,
       v: (l, c) => { const x = ipcOf(l, c); return x && x.all ? x["3+"] / x.all * 100 : null; },
       title: "Share of people in Crisis or worse (IPC 3+)", sub: () => `IPC · ${periodLab(D.ipc.periods[0])}` },
@@ -444,7 +444,7 @@
       };
     },
     conflict: () => ({
-      html: `<h2>Conflict</h2><p class="hint">Monthly political violence recorded by ACLED (aggregated by HDX). Fatality figures are reported estimates.</p>
+      html: `<h2>Conflict</h2><p class="hint">Source: <a href="https://acleddata.com" target="_blank" rel="noopener">Armed Conflict Location &amp; Event Data (ACLED)</a>, monthly aggregates by locality published on HDX, accessed ${D.meta.fetched}. Fatality figures are reported estimates. Charts are derived from ACLED data; no changes were made to the source values other than summing by month and area.</p>
         <h3>Events and fatalities per month</h3><div class="chart-wrap" style="height:200px"><canvas id="c1"></canvas></div>
         <h3>Civilian targeting and demonstrations</h3><div class="chart-wrap" style="height:150px"><canvas id="c2"></canvas></div>
         <h3>${curInd.label}: top ${state.level === "adm1" ? "states" : "localities"}</h3>${rankTable(curInd, state.level, 10)}`,

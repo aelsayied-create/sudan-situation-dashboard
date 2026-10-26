@@ -137,6 +137,14 @@ def displacement(states, locs):
 # ------------------------------------------------------------------ conflict (ACLED aggregates via HAPI)
 def conflict():
     rs = rows("hapi_conflict.csv")
+    if not rs:
+        # ACLED data is not redistributed in this repo (see README). Without the raw file
+        # (e.g. on a plain checkout), keep the aggregates from the last published build.
+        prev = OUT / "sudan.json"
+        if prev.exists():
+            print("  conflict: raw ACLED file absent, reusing last published aggregates")
+            return json.loads(prev.read_text())["conflict"]
+        raise SystemExit("hapi_conflict.csv missing: run scripts/fetch_data.py first")
     last_full = max(ym(r["reference_period_start"]) for r in rs)
     # drop the current, incomplete month
     today = date.today().strftime("%Y-%m")

@@ -42,7 +42,7 @@ cd web && python -m http.server 8000         # open http://localhost:8000
 
 ## Data sources (all via HDX)
 - **IDPs & returnees:** IOM Displacement Tracking Matrix (HDX HAPI; DTM master list snapshot for origin–destination)
-- **Conflict:** ACLED monthly aggregates by locality (HDX HAPI). Fatalities are taken from the political violence series only, to avoid double counting civilian targeting.
+- **Conflict:** [ACLED](https://acleddata.com) monthly aggregates by locality, published on HDX. Fatalities are taken from the political violence series only, to avoid double counting civilian targeting. In line with ACLED's terms, the raw ACLED file is **not** stored in this repository: it is downloaded during the GitHub Actions run, summed by month and area, and only those derived figures are published.
 - **Food security:** Integrated Food Security Phase Classification (IPC), via HDX HAPI
 - **Market prices:** WFP Market Monitor (retail prices, SDG)
 - **Operational presence (3W), humanitarian needs, boundaries:** OCHA Sudan, OCHA FISS COD-AB
