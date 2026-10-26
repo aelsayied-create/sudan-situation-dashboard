@@ -596,7 +596,7 @@
 
   function select(l, c) {
     state.sel = !l || state.sel?.c === c ? null : { l, c };
-    fly(state.sel ? boundsOf(l, c) : sudanBounds, { maxZoom: l === "adm2" ? 7.5 : 6.5 });
+    fly(state.sel ? boundsOf(l, c) : sudanBounds, { maxZoom: l === "adm2" ? 7 : 6, padding: [90, 90] });
     refresh();
   }
   function setTab(t) {
