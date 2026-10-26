@@ -1,0 +1,115 @@
+{
+ "idps": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Affected People: Internally-Displaced Persons for Sudan",
+  "updated": "2026-10-20",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "needs": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Affected People: Humanitarian Needs for Sudan",
+  "updated": "2026-02-11",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "presence": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Coordination & Context: Operational Presence for Sudan",
+  "updated": "2026-10-21",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "funding": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Coordination & Context: Funding for Sudan",
+  "updated": "2026-10-24",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "conflict": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Coordination & Context: Conflict Events for Sudan",
+  "updated": "2026-10-24",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "risk": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Coordination & Context: National Risk for Sudan",
+  "updated": "2026-05-28",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "ipc": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Food Security, Nutrition & Poverty: Food Security for Sudan",
+  "updated": "2026-10-16",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "rainfall": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Climate: Rainfall for Sudan",
+  "updated": "2026-10-20",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "refugees": {
+  "dataset": "HDX HAPI Data for Sudan",
+  "org": "HDX Humanitarian API Data",
+  "resource": "Affected People: Refugees & Persons of Concern for Sudan",
+  "updated": "2026-06-13",
+  "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
+  "license": "Other"
+ },
+ "boundaries": {
+  "dataset": "Sudan - Subnational Administrative Boundaries",
+  "org": "OCHA Field Information Services Section (FISS)",
+  "resource": "sdn_admin_boundaries.geojson.zip",
+  "updated": "2026-01-26",
+  "url": "https://data.humdata.org/dataset/cod-ab-sdn",
+  "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)"
+ },
+ "population_adm1": {
+  "dataset": "Sudan - Subnational Population Statistics",
+  "org": "UNFPA",
+  "resource": "sdn_admpop_adm1_2025.csv",
+  "updated": "2025-12-29",
+  "url": "https://data.humdata.org/dataset/cod-ps-sdn",
+  "license": "Creative Commons Attribution International (CC BY)"
+ },
+ "population_adm2": {
+  "dataset": "Sudan - Subnational Population Statistics",
+  "org": "UNFPA",
+  "resource": "sdn_admpop_adm2_2025.csv",
+  "updated": "2025-12-29",
+  "url": "https://data.humdata.org/dataset/cod-ps-sdn",
+  "license": "Creative Commons Attribution International (CC BY)"
+ },
+ "dtm": {
+  "dataset": "Sudan: Displacement Situation - IDPs [IOM DTM]",
+  "org": "International Organization for Migration (IOM)",
+  "resource": "DTM Sudan Displacement and Return Snapshot (8).xlsx",
+  "updated": "2026-08-24",
+  "url": "https://data.humdata.org/dataset/sudan-displacement-situation-countrywide-idps-iom-dtm",
+  "license": "Creative Commons Attribution International (CC BY)"
+ },
+ "prices": {
+  "dataset": "Sudan - Food Prices",
+  "org": "WFP - World Food Programme",
+  "resource": "Sudan - Food Prices",
+  "updated": "2026-10-19",
+  "url": "https://data.humdata.org/dataset/wfp-food-prices-for-sudan",
+  "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)"
+ },
+ "_fetched": "2026-10-26"
+}
