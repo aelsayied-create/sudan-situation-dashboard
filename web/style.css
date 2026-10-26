@@ -29,8 +29,7 @@ button,select,input{font:inherit;color:inherit}
 a{color:var(--link)}
 .top{background:var(--brand);color:#fff;padding:10px 16px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
 .brand{flex:1;min-width:220px;display:flex;gap:11px;align-items:center}
-.logo{width:30px;height:30px;border-radius:7px;flex:none;background:linear-gradient(180deg,#d21034 0 33%,#fff 0 66%,#111 0);position:relative;overflow:hidden;box-shadow:0 0 0 1px rgba(255,255,255,.25)}
-.logo::after{content:"";position:absolute;left:0;top:0;border-style:solid;border-width:15px 0 15px 13px;border-color:transparent transparent transparent #007229}
+.logo{width:32px;height:32px;flex:none;line-height:0}
 .brand h1{font-size:18px;font-weight:700;line-height:1.2}
 .brand h1 .ar{font-weight:500;opacity:.8;font-size:15px}
 .brand p{font-size:12px;opacity:.75}

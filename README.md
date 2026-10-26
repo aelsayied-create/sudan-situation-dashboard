@@ -1,6 +1,6 @@
-# Sudan Situation Dashboard · لوحة الوضع في السودان
+# Sudan Humanitarian Data Explorer · مستكشف البيانات الإنسانية للسودان
 
-An interactive dashboard that brings together the main **open humanitarian datasets for Sudan** in one place, by **state and locality**: displacement, conflict, food security, market prices, humanitarian response and rainfall. All data comes from public sources on the Humanitarian Data Exchange (HDX), refreshes automatically every week, and every number on screen is computed from the source files.
+A personal sample study: an interactive dashboard that brings together the main **open humanitarian datasets for Sudan** in one place, by **state and locality**: displacement, conflict, food security, market prices, humanitarian response and rainfall. All data comes from public sources on the Humanitarian Data Exchange (HDX), refreshes automatically every week, and every number on screen is computed from the source files.
 
 > 📘 **Personal sample study.** Built by Amna Abdein as a learning and portfolio project. It is **not an official product** of IOM, OCHA, WFP, IPC, ACLED, UNHCR or any other organisation. Figures are as published by each source and carry their own caveats.
 
