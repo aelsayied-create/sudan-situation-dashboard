@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sudan Situation Dashboard</title>
+<meta name="description" content="Displacement, conflict, food security, markets, humanitarian response and rainfall in Sudan, by state and locality. Open data from HDX, IOM DTM, ACLED, IPC, WFP, OCHA and UNHCR.">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="logo" aria-hidden="true"></div>
+    <div>
+      <h1>Sudan Situation Dashboard <span class="ar" lang="ar">· لوحة الوضع في السودان</span></h1>
+      <p id="subtitle">Displacement · conflict · food security · markets · response · climate</p>
+    </div>
+  </div>
+  <span class="badge" title="All figures computed from public datasets on HDX">Open data · sample study</span>
+</header>
+
+<nav class="tabs" id="tabs" role="tablist" aria-label="Themes">
+  <button role="tab" data-tab="overview" aria-selected="true">Overview</button>
+  <button role="tab" data-tab="displacement">Displacement</button>
+  <button role="tab" data-tab="conflict">Conflict</button>
+  <button role="tab" data-tab="food">Food security</button>
+  <button role="tab" data-tab="markets">Markets</button>
+  <button role="tab" data-tab="response">Response</button>
+  <button role="tab" data-tab="climate">Climate</button>
+  <button role="tab" data-tab="story" class="story-tab">Story ▸</button>
+</nav>
+
+<section class="bar" id="bar" aria-label="Indicator">
+  <div class="chips" id="indicators" role="group" aria-label="Map indicator"></div>
+  <div class="extra" id="extra"></div>
+  <div class="seg" id="level" role="group" aria-label="Admin level"><button data-l="adm1" class="on">States</button><button data-l="adm2">Localities</button></div>
+</section>
+
+<section class="kpis" id="kpis" aria-label="Key figures"></section>
+
+<div class="layout">
+  <main class="mapbox">
+    <div id="map" aria-label="Map of Sudan"></div>
+    <div class="maptitle" id="maptitle"></div>
+    <div class="legend" id="legend"></div>
+    <div class="map-ui"><div class="seg" id="basemap"><button data-b="gray" class="on">Map</button><button data-b="imagery">Imagery</button></div></div>
+  </main>
+  <aside class="panel" id="panel"></aside>
+</div>
+
+<footer class="foot">
+  <b>Data</b> (via the <a href="https://data.humdata.org/" target="_blank" rel="noopener">Humanitarian Data Exchange</a>): IDPs &amp; returnees — IOM DTM; conflict — ACLED aggregates; food security — IPC; markets — WFP; partners (3W), needs &amp; boundaries — OCHA; funding — OCHA FTS; population — UNFPA; refugees — UNHCR; rainfall — CHIRPS (WFP); risk — INFORM. Basemaps: Esri, © OpenStreetMap contributors.
+  <span id="meta"></span> <b>Personal sample study by Amna Abdein, not an official product of any of these organisations.</b>
+</footer>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="vendor/chart.umd.js"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>

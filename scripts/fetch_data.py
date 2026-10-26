@@ -95,8 +95,10 @@ def fetch_hapi():
     write_csv("hapi_idps.csv", rows, ADM + ["operation", "assessment_type", "population", "reporting_round", "reference_period_end"])
 
     rows = hapi("needs", r"Humanitarian Needs")
-    latest = max(r["reference_period_start"] for r in rows)
-    write_csv("hapi_needs.csv", [r for r in rows if r["reference_period_start"] == latest],
+    latest = {}
+    for r in rows:   # latest plan year available at each admin level
+        latest[r["admin_level"]] = max(latest.get(r["admin_level"], ""), r["reference_period_start"])
+    write_csv("hapi_needs.csv", [r for r in rows if r["reference_period_start"] == latest[r["admin_level"]]],
               ADM + ["sector_code", "sector_name", "category", "population_status", "population", "reference_period_start"])
 
     rows = hapi("presence", r"Operational Presence")
