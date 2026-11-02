@@ -19,7 +19,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Coordination & Context: Operational Presence for Sudan",
-  "updated": "2026-10-21",
+  "updated": "2026-10-29",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -27,7 +27,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Coordination & Context: Funding for Sudan",
-  "updated": "2026-10-24",
+  "updated": "2026-10-31",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -35,7 +35,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Coordination & Context: Conflict Events for Sudan",
-  "updated": "2026-10-24",
+  "updated": "2026-10-31",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -59,7 +59,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Climate: Rainfall for Sudan",
-  "updated": "2026-10-20",
+  "updated": "2026-10-28",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -111,5 +111,5 @@
   "url": "https://data.humdata.org/dataset/wfp-food-prices-for-sudan",
   "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)"
  },
- "_fetched": "2026-10-26"
+ "_fetched": "2026-11-02"
 }

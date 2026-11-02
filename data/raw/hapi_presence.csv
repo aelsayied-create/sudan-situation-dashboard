@@ -1,10 +1,13 @@
 admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name,org_type_description,sector_code,sector_name,reference_period_start,reference_period_end
-2,SD08,Blue Nile,SD08106,Al Kurmuk,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
-2,SD08,Blue Nile,SD08104,Baw,HA UK,Human Appeal - UK,International NGO,SHL,Emergency Shelter and NFI,2026-01-01,2026-07-31
-2,SD17,Northern,SD17017,Dongola,CDF,Child Development Foundation,National NGO,PRO,Protection,2026-01-01,2026-07-31
-2,SD01,Khartoum,SD01003,Bahri,MAS,Muslim Aid Sudan,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
-2,SD01,Khartoum,SD01003,Bahri,MEDAIR,MEDAIR,International NGO,HEA,Health,2026-01-01,2026-07-31
-2,SD01,Khartoum,SD01003,Bahri,MEDAIR,MEDAIR,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08107,Ar Rusayris,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08107,Ar Rusayris,WR,World Relief,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08104,Baw,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
+2,SD15,Aj Jazirah,SD15035,Al Kamlin,AHDO,Alegtinam Human Development Organization,International NGO,FSC,Food Security,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08104,Baw,WR,World Relief,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
+2,SD06,Central Darfur,SD06110,Azum,WR,World Relief,International NGO,HEA,Health,2026-01-01,2026-07-31
+2,SD06,Central Darfur,SD06110,Azum,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
+2,SD01,Khartoum,SD01004,Sharg An Neel,MEDAIR,MEDAIR,International NGO,HEA,Health,2026-01-01,2026-07-31
+2,SD15,Aj Jazirah,SD15035,Al Kamlin,CARE,CARE International in Sudan,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD19,Abyei PCA,SD19001,Abyei PCA area,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD19,Abyei PCA,SD19001,Abyei PCA area,DRC,Danish Refugee Council,International NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD19,Abyei PCA,SD19001,Abyei PCA area,HFDO,Hope and Friendship for Development Organization,National NGO,HEA,Health,2026-01-01,2026-07-31
@@ -29,8 +32,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD15,Aj Jazirah,SD15034,Al Hasahisa,UNFPA,United Nations Population Fund,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15034,Al Hasahisa,UNICEF,United Nations Children's Fund,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15034,Al Hasahisa,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
-2,SD15,Aj Jazirah,SD15035,Al Kamlin,AHDO,Alegtinam Human Development Organization,International NGO,FSC,Food Security,2026-01-01,2026-07-31
-2,SD15,Aj Jazirah,SD15035,Al Kamlin,CARE,CARE International in Sudan,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15035,Al Kamlin,CARE,CARE International in Sudan,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15035,Al Kamlin,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15035,Al Kamlin,DRC,Danish Refugee Council,International NGO,PRO,Protection,2026-01-01,2026-07-31
@@ -84,6 +85,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD15,Aj Jazirah,SD15031,Janub Al Jazirah,FAO,Food and Agriculture Organization,United Nations,FSC,Food Security,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15031,Janub Al Jazirah,IR,Islamic Relief Worldwide,International NGO,SHL,Emergency Shelter and NFI,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15031,Janub Al Jazirah,IR,Islamic Relief Worldwide,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08107,Ar Rusayris,WR,World Relief,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15031,Janub Al Jazirah,IRC,International Rescue Committee,International NGO,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15031,Janub Al Jazirah,IRC,International Rescue Committee,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD15,Aj Jazirah,SD15031,Janub Al Jazirah,IRC,International Rescue Committee,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
@@ -219,6 +221,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD08,Blue Nile,SD08106,Al Kurmuk,UNICEF,United Nations Children's Fund,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08106,Al Kurmuk,WFP,World Food Programme,United Nations,FSC,Food Security,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08106,Al Kurmuk,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08106,Al Kurmuk,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,Al-SO,Al-Sadagat organization,National NGO,EDU,Education,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,FAO,Food and Agriculture Organization,United Nations,FSC,Food Security,2026-01-01,2026-07-31
@@ -240,9 +243,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD08,Blue Nile,SD08107,Ar Rusayris,UNICEF,United Nations Children's Fund,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,WFP,World Food Programme,United Nations,FSC,Food Security,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
-2,SD08,Blue Nile,SD08107,Ar Rusayris,WR,World Relief,International NGO,HEA,Health,2026-01-01,2026-07-31
-2,SD08,Blue Nile,SD08107,Ar Rusayris,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
-2,SD08,Blue Nile,SD08107,Ar Rusayris,WR,World Relief,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,WTI,Windle Trust International,International NGO,EDU,Education,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,WVI,World Vision International,International NGO,FSC,Food Security,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,ACF,Action Contre la Faim (Action Against Hunger),International NGO,Cash,Cash programming,2026-01-01,2026-07-31
@@ -273,6 +273,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD08,Blue Nile,SD08104,Baw,Act Appeal,Act Appeal,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,Al-SO,Al-Sadagat organization,National NGO,EDU,Education,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,FAO,Food and Agriculture Organization,United Nations,FSC,Food Security,2026-01-01,2026-07-31
+2,SD08,Blue Nile,SD08104,Baw,HA UK,Human Appeal - UK,International NGO,SHL,Emergency Shelter and NFI,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,IMC,International Medical Corps,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,IMC,International Medical Corps,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,IMC,International Medical Corps,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
@@ -296,8 +297,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD08,Blue Nile,SD08104,Baw,UNICEF,United Nations Children's Fund,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,WFP,World Food Programme,United Nations,FSC,Food Security,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
-2,SD08,Blue Nile,SD08104,Baw,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
-2,SD08,Blue Nile,SD08104,Baw,WR,World Relief,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,WVI,World Vision International,International NGO,FSC,Food Security,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08104,Baw,WVI,World Vision International,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD08,Blue Nile,SD08105,Ed Damazine,ACF,Action against Hunger,International NGO,HEA,Health,2026-01-01,2026-07-31
@@ -407,8 +406,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD06,Central Darfur,SD06110,Azum,VSF-G,Vétérinaires sans Frontières Germany,International NGO,FSC,Food Security,2026-01-01,2026-07-31
 2,SD06,Central Darfur,SD06110,Azum,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
 2,SD06,Central Darfur,SD06110,Azum,WR,World Relief,International NGO,FSC,Food Security,2026-01-01,2026-07-31
-2,SD06,Central Darfur,SD06110,Azum,WR,World Relief,International NGO,HEA,Health,2026-01-01,2026-07-31
-2,SD06,Central Darfur,SD06110,Azum,WR,World Relief,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD06,Central Darfur,SD06112,Bendasi,ACF,Action against Hunger,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD06,Central Darfur,SD06112,Bendasi,CRS,Catholic Relief Services,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD06,Central Darfur,SD06112,Bendasi,SRCS,Sudanese Red Crescent Society,Red Cross / Red Crescent,HEA,Health,2026-01-01,2026-07-31
@@ -940,6 +937,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD12,Gedaref,SD12084,Ar Rahad,IRC,International Rescue Committee,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD12,Gedaref,SD12084,Ar Rahad,MCI,Mercy Corps International,International NGO,WSH,Water Sanitation Hygiene,2026-01-01,2026-07-31
 2,SD12,Gedaref,SD12084,Ar Rahad,MTI,Medical Teams International,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
+2,SD01,Khartoum,SD01004,Sharg An Neel,MEDAIR,MEDAIR,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD12,Gedaref,SD12084,Ar Rahad,RCDO,Rural Community Development Organization,National NGO,EDU,Education,2026-01-01,2026-07-31
 2,SD12,Gedaref,SD12084,Ar Rahad,UNICEF,United Nations Children's Fund,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD12,Gedaref,SD12084,Ar Rahad,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
@@ -1286,6 +1284,9 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD01,Khartoum,SD01003,Bahri,IRC,International Rescue Committee,International NGO,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01003,Bahri,JHSO,JASMAR Human Security Organization,National NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01003,Bahri,JVC,Japan International Volunteer Center,International NGO,EDU,Education,2026-01-01,2026-07-31
+2,SD01,Khartoum,SD01003,Bahri,MAS,Muslim Aid Sudan,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
+2,SD01,Khartoum,SD01003,Bahri,MEDAIR,MEDAIR,International NGO,HEA,Health,2026-01-01,2026-07-31
+2,SD01,Khartoum,SD01003,Bahri,MEDAIR,MEDAIR,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01003,Bahri,MTI,Medical Teams International,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01003,Bahri,NADA,NADA Elazhar for Disaster Privention and Sustainable Development,National NGO,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01003,Bahri,NADA,NADA Elazhar for Disaster Privention and Sustainable Development,National NGO,PRO,Protection,2026-01-01,2026-07-31
@@ -1474,8 +1475,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD01,Khartoum,SD01004,Sharg An Neel,IOM,International Organization for Migration,United Nations,SHL,Emergency Shelter and NFI,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01004,Sharg An Neel,IRC,International Rescue Committee,International NGO,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01004,Sharg An Neel,KPHF,Kuwaiti Patients Helping Funds,International NGO,HEA,Health,2026-01-01,2026-07-31
-2,SD01,Khartoum,SD01004,Sharg An Neel,MEDAIR,MEDAIR,International NGO,HEA,Health,2026-01-01,2026-07-31
-2,SD01,Khartoum,SD01004,Sharg An Neel,MEDAIR,MEDAIR,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01004,Sharg An Neel,MTI,Medical Teams International,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01004,Sharg An Neel,NPO,National Planning Organization,National NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD01,Khartoum,SD01004,Sharg An Neel,RI,Relief International,International NGO,FSC,Food Security,2026-01-01,2026-07-31
@@ -1638,6 +1637,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD02,North Darfur,SD02171,At Tina,AOPDHA,"Alaioun Organization for Peace, Development and Humanitarian Aid",National NGO,FSC,Food Security,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02171,At Tina,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02171,At Tina,DOFDAHR,DOFDAHR Organization,National NGO,FSC,Food Security,2026-01-01,2026-07-31
+2,SD02,North Darfur,SD02126,Kelemando,SCI,Save the Children International,International NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02171,At Tina,HDPO,Humanity for Development and Prosperity Organization,National NGO,FSC,Food Security,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02171,At Tina,HDPO,Humanity for Development and Prosperity Organization,National NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02171,At Tina,HDPO,Humanity for Development and Prosperity Organization,National NGO,NUT,Nutrition,2026-01-01,2026-07-31
@@ -1691,7 +1691,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD02,North Darfur,SD02126,Kelemando,Other,Other,Other,PRO,Protection,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02126,Kelemando,SCI,Save the Children International,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02126,Kelemando,SCI,Save the Children International,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
-2,SD02,North Darfur,SD02126,Kelemando,SCI,Save the Children International,International NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02126,Kelemando,UNHCR,UN Refugee Agency,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02126,Kelemando,UNICEF,United Nations Children's Fund,United Nations,HEA,Health,2026-01-01,2026-07-31
 2,SD02,North Darfur,SD02126,Kelemando,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
@@ -2097,6 +2096,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD17,Northern,SD17017,Dongola,BRDO,Building Resilience Development Organization,National NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD17,Northern,SD17017,Dongola,BRHO,Build Resilience Humanitarian Organization,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD17,Northern,SD17017,Dongola,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
+2,SD17,Northern,SD17017,Dongola,CDF,Child Development Foundation,National NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD17,Northern,SD17017,Dongola,D AL-N,Durat AL-Nile,National NGO,PRO,Protection,2026-01-01,2026-07-31
 2,SD17,Northern,SD17017,Dongola,FAO,Food and Agriculture Organization,United Nations,FSC,Food Security,2026-01-01,2026-07-31
 2,SD17,Northern,SD17017,Dongola,IOM,International Organization for Migration,United Nations,PRO,Protection,2026-01-01,2026-07-31
@@ -2122,6 +2122,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD17,Northern,SD17014,Halfa,BFI,Building Foundation for Development,National NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD17,Northern,SD17014,Halfa,BFI,Building Foundation for Development,National NGO,NUT,Nutrition,2026-01-01,2026-07-31
 2,SD17,Northern,SD17014,Halfa,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
+2,SD03,South Darfur,SD03149,Tulus,Other,Other,Other,PRO,Protection,2026-01-01,2026-07-31
 2,SD17,Northern,SD17014,Halfa,FAO,Food and Agriculture Organization,United Nations,FSC,Food Security,2026-01-01,2026-07-31
 2,SD17,Northern,SD17014,Halfa,IOM,International Organization for Migration,United Nations,PRO,Protection,2026-01-01,2026-07-31
 2,SD17,Northern,SD17014,Halfa,JHSO,JASMAR Human Security Organization,National NGO,PRO,Protection,2026-01-01,2026-07-31
@@ -2721,7 +2722,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,org_acronym,org_name
 2,SD03,South Darfur,SD03149,Tulus,CCS,Cash Consortium of Sudan,Other,Cash,Cash programming,2026-01-01,2026-07-31
 2,SD03,South Darfur,SD03149,Tulus,MEDAIR,MEDAIR,International NGO,HEA,Health,2026-01-01,2026-07-31
 2,SD03,South Darfur,SD03149,Tulus,MEDAIR,MEDAIR,International NGO,NUT,Nutrition,2026-01-01,2026-07-31
-2,SD03,South Darfur,SD03149,Tulus,Other,Other,Other,PRO,Protection,2026-01-01,2026-07-31
 2,SD03,South Darfur,SD03149,Tulus,UNICEF,United Nations Children's Fund,United Nations,HEA,Health,2026-01-01,2026-07-31
 2,SD03,South Darfur,SD03149,Tulus,VSF-G,Vétérinaires sans Frontières Germany,International NGO,FSC,Food Security,2026-01-01,2026-07-31
 2,SD03,South Darfur,SD03149,Tulus,WHO,World Health Organization,United Nations,HEA,Health,2026-01-01,2026-07-31
