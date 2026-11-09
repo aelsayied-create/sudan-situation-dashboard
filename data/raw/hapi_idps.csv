@@ -209,6 +209,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD01,Khartoum,,,Armed Clashes in Sudan,BA,59892,44,2024-04-04
 1,SD01,Khartoum,,,Armed Clashes in Sudan,BA,62186,45,2024-04-12
 1,SD01,Khartoum,,,Armed Clashes in Sudan,BA,65141,46,2024-04-17
+1,SD02,North Darfur,,,Darfur conflict,BA,259458,34,2014-12-31
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Monthly),BA,60100,1,2023-09-30
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Monthly),BA,64030,2,2023-10-31
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Monthly),BA,41538,3,2023-11-30
@@ -232,7 +233,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Overview),BA,106455,13,2024-10-08
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Overview),BA,102267,14,2024-10-22
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Overview),BA,109789,15,2024-11-06
-1,SD02,North Darfur,,,Darfur conflict,BA,394769,59,2017-03-30
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Overview),BA,103207,16,2024-11-21
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Overview),BA,100026,17,2024-12-03
 1,SD01,Khartoum,,,Armed Clashes in Sudan (Overview),BA,98331,18,2024-12-17
@@ -445,7 +445,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD01,Khartoum,SD01003,Bahri,Armed Clashes in Sudan,BA,3530,4,2023-05-14
 2,SD01,Khartoum,SD01003,Bahri,Armed Clashes in Sudan,BA,3200,5,2023-05-21
 2,SD01,Khartoum,SD01003,Bahri,Armed Clashes in Sudan,BA,3200,6,2023-05-29
-1,SD02,North Darfur,,,Darfur conflict,BA,418149,60,2017-04-30
 2,SD01,Khartoum,SD01003,Bahri,Armed Clashes in Sudan,BA,3200,7,2023-06-04
 2,SD01,Khartoum,SD01003,Bahri,Armed Clashes in Sudan,BA,3200,8,2023-06-13
 2,SD01,Khartoum,SD01003,Bahri,Armed Clashes in Sudan,BA,3200,9,2023-06-18
@@ -636,6 +635,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan,BA,1835,10,2023-06-25
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan,BA,7465,11,2023-07-01
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan,BA,8155,12,2023-07-09
+1,SD02,North Darfur,,,Darfur conflict,BA,259458,35,2015-01-31
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan,BA,8155,13,2023-07-16
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan,BA,8225,14,2023-07-23
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan,BA,8390,15,2023-07-30
@@ -712,7 +712,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan (Overview),BA,116217,32,2026-01-31
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan (Overview),BA,120907,33,2026-02-28
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan (Overview),BA,117446,34,2026-03-31
-1,SD02,North Darfur,,,Darfur conflict,BA,418149,61,2017-05-30
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan (Overview),BA,106712,35,2026-04-30
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan (Overview),BA,103671,36,2026-05-31
 2,SD01,Khartoum,SD01005,Karrari,Armed Clashes in Sudan (Overview),BA,96981,37,2026-06-30
@@ -1016,8 +1015,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD02,North Darfur,,,Darfur conflict,BA,259458,31,2014-07-30
 1,SD02,North Darfur,,,Darfur conflict,BA,259458,32,2014-08-30
 1,SD02,North Darfur,,,Darfur conflict,BA,259458,33,2014-11-30
-1,SD02,North Darfur,,,Darfur conflict,BA,259458,34,2014-12-31
-1,SD02,North Darfur,,,Darfur conflict,BA,259458,35,2015-01-31
 1,SD02,North Darfur,,,Darfur conflict,BA,271519,36,2015-02-28
 1,SD02,North Darfur,,,Darfur conflict,BA,311816,37,2015-03-30
 1,SD02,North Darfur,,,Darfur conflict,BA,314416,38,2015-04-30
@@ -1041,6 +1038,9 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD02,North Darfur,,,Darfur conflict,BA,387086,56,2016-12-31
 1,SD02,North Darfur,,,Darfur conflict,BA,387086,57,2017-01-31
 1,SD02,North Darfur,,,Darfur conflict,BA,387086,58,2017-02-28
+1,SD02,North Darfur,,,Darfur conflict,BA,394769,59,2017-03-30
+1,SD02,North Darfur,,,Darfur conflict,BA,418149,60,2017-04-30
+1,SD02,North Darfur,,,Darfur conflict,BA,418149,61,2017-05-30
 1,SD02,North Darfur,,,Darfur conflict,BA,423233,62,2017-06-30
 1,SD02,North Darfur,,,Darfur conflict,BA,424073,63,2017-08-30
 1,SD02,North Darfur,,,Darfur conflict,BA,424073,64,2017-10-30
@@ -1549,6 +1549,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02117,Al Malha,Armed Clashes in Sudan (Overview),BA,100555,28,2025-09-30
 2,SD02,North Darfur,SD02117,Al Malha,Armed Clashes in Sudan (Overview),BA,100555,29,2025-10-31
 2,SD02,North Darfur,SD02117,Al Malha,Armed Clashes in Sudan (Overview),BA,100555,30,2025-11-30
+1,SD03,South Darfur,,,Darfur conflict,BA,620580,40,2015-06-30
 2,SD02,North Darfur,SD02117,Al Malha,Armed Clashes in Sudan (Overview),BA,106246,31,2025-12-31
 2,SD02,North Darfur,SD02117,Al Malha,Armed Clashes in Sudan (Overview),BA,106246,32,2026-01-31
 2,SD02,North Darfur,SD02117,Al Malha,Armed Clashes in Sudan (Overview),BA,106246,33,2026-02-28
@@ -1624,7 +1625,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02118,As Serief,Armed Clashes in Sudan (Overview),BA,13300,11,2024-09-10
 2,SD02,North Darfur,SD02118,As Serief,Armed Clashes in Sudan (Overview),BA,13300,12,2024-09-30
 2,SD02,North Darfur,SD02118,As Serief,Armed Clashes in Sudan (Overview),BA,13300,13,2024-10-08
-1,SD03,South Darfur,,,Darfur conflict,BA,655547,61,2017-05-30
 2,SD02,North Darfur,SD02118,As Serief,Armed Clashes in Sudan (Overview),BA,13300,14,2024-10-22
 2,SD02,North Darfur,SD02118,As Serief,Armed Clashes in Sudan (Overview),BA,13300,15,2024-11-06
 2,SD02,North Darfur,SD02118,As Serief,Armed Clashes in Sudan (Overview),BA,13300,16,2024-11-21
@@ -1728,7 +1728,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02119,At Tawisha,Armed Clashes in Sudan (Overview),BA,2815,19,2024-12-31
 2,SD02,North Darfur,SD02119,At Tawisha,Armed Clashes in Sudan (Overview),BA,2815,20,2025-01-14
 2,SD02,North Darfur,SD02119,At Tawisha,Armed Clashes in Sudan (Overview),BA,2815,21,2025-01-28
-1,SD03,South Darfur,,,Darfur conflict,BA,655547,62,2017-06-30
 2,SD02,North Darfur,SD02119,At Tawisha,Armed Clashes in Sudan (Overview),BA,2740,22,2025-03-31
 2,SD02,North Darfur,SD02119,At Tawisha,Armed Clashes in Sudan (Overview),BA,2773,23,2025-04-30
 2,SD02,North Darfur,SD02119,At Tawisha,Armed Clashes in Sudan (Overview),BA,2802,24,2025-05-28
@@ -1831,7 +1830,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02120,Um Baru,Darfur conflict,BA,7222,40,2015-06-30
 2,SD02,North Darfur,SD02120,Um Baru,Darfur conflict,BA,7222,41,2015-07-30
 2,SD02,North Darfur,SD02120,Um Baru,Darfur conflict,BA,7222,42,2015-08-30
-1,SD03,South Darfur,,,Darfur conflict,BA,657105,63,2017-08-30
 2,SD02,North Darfur,SD02120,Um Baru,Darfur conflict,BA,7222,43,2015-09-30
 2,SD02,North Darfur,SD02120,Um Baru,Darfur conflict,BA,7222,44,2015-10-30
 2,SD02,North Darfur,SD02120,Um Baru,Darfur conflict,BA,7222,45,2015-11-30
@@ -1940,7 +1938,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02124,Kebkabiya,Armed Clashes in Sudan (Overview),BA,91890,19,2024-12-31
 2,SD02,North Darfur,SD02124,Kebkabiya,Armed Clashes in Sudan (Overview),BA,98491,20,2025-01-14
 2,SD02,North Darfur,SD02124,Kebkabiya,Armed Clashes in Sudan (Overview),BA,99061,21,2025-01-28
-1,SD03,South Darfur,,,Darfur conflict,BA,657105,64,2017-10-30
 2,SD02,North Darfur,SD02124,Kebkabiya,Armed Clashes in Sudan (Overview),BA,99756,22,2025-03-31
 2,SD02,North Darfur,SD02124,Kebkabiya,Armed Clashes in Sudan (Overview),BA,100161,23,2025-04-30
 2,SD02,North Darfur,SD02124,Kebkabiya,Armed Clashes in Sudan (Overview),BA,101431,24,2025-05-28
@@ -2264,7 +2261,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02129,Melit,Armed Clashes in Sudan,BA,32255,41,2024-03-06
 2,SD02,North Darfur,SD02129,Melit,Armed Clashes in Sudan,BA,32265,42,2024-03-13
 2,SD02,North Darfur,SD02129,Melit,Armed Clashes in Sudan,BA,32275,43,2024-03-28
-1,SD03,South Darfur,,,Darfur conflict,BA,657105,65,2017-11-30
 2,SD02,North Darfur,SD02129,Melit,Armed Clashes in Sudan,BA,32275,44,2024-04-04
 2,SD02,North Darfur,SD02129,Melit,Armed Clashes in Sudan,BA,32275,45,2024-04-12
 2,SD02,North Darfur,SD02129,Melit,Armed Clashes in Sudan,BA,32275,46,2024-04-17
@@ -2411,6 +2407,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD02,North Darfur,SD02133,Saraf Omra,Armed Clashes in Sudan,BA,12665,24,2023-10-05
 2,SD02,North Darfur,SD02133,Saraf Omra,Armed Clashes in Sudan,BA,12725,25,2023-10-13
 2,SD02,North Darfur,SD02133,Saraf Omra,Armed Clashes in Sudan,BA,12950,26,2023-10-19
+1,SD03,South Darfur,,,Darfur conflict,BA,620580,41,2015-07-30
 2,SD02,North Darfur,SD02133,Saraf Omra,Armed Clashes in Sudan,BA,16860,27,2023-11-07
 2,SD02,North Darfur,SD02133,Saraf Omra,Armed Clashes in Sudan,BA,16860,28,2023-11-09
 2,SD02,North Darfur,SD02133,Saraf Omra,Armed Clashes in Sudan,BA,16860,29,2023-11-15
@@ -3107,8 +3104,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD03,South Darfur,,,Darfur conflict,BA,619472,37,2015-03-30
 1,SD03,South Darfur,,,Darfur conflict,BA,619472,38,2015-04-30
 1,SD03,South Darfur,,,Darfur conflict,BA,620411,39,2015-05-30
-1,SD03,South Darfur,,,Darfur conflict,BA,620580,40,2015-06-30
-1,SD03,South Darfur,,,Darfur conflict,BA,620580,41,2015-07-30
 1,SD03,South Darfur,,,Darfur conflict,BA,620580,42,2015-08-30
 1,SD03,South Darfur,,,Darfur conflict,BA,620862,43,2015-09-30
 1,SD03,South Darfur,,,Darfur conflict,BA,620862,44,2015-10-30
@@ -3128,6 +3123,11 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD03,South Darfur,,,Darfur conflict,BA,655547,58,2017-02-28
 1,SD03,South Darfur,,,Darfur conflict,BA,655547,59,2017-03-30
 1,SD03,South Darfur,,,Darfur conflict,BA,655547,60,2017-04-30
+1,SD03,South Darfur,,,Darfur conflict,BA,655547,61,2017-05-30
+1,SD03,South Darfur,,,Darfur conflict,BA,655547,62,2017-06-30
+1,SD03,South Darfur,,,Darfur conflict,BA,657105,63,2017-08-30
+1,SD03,South Darfur,,,Darfur conflict,BA,657105,64,2017-10-30
+1,SD03,South Darfur,,,Darfur conflict,BA,657105,65,2017-11-30
 1,SD03,South Darfur,,,Darfur conflict,BA,657105,66,2017-12-31
 1,SD03,South Darfur,,,Darfur conflict,BA,657105,67,2018-02-28
 1,SD03,South Darfur,,,Darfur conflict,BA,657859,68,2018-03-30
@@ -3211,6 +3211,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03143,Ed Al Fursan,Armed Clashes in Sudan,BA,11135,33,2023-12-27
 2,SD03,South Darfur,SD03143,Ed Al Fursan,Armed Clashes in Sudan,BA,11135,34,2024-01-03
 2,SD03,South Darfur,SD03143,Ed Al Fursan,Armed Clashes in Sudan,BA,11135,35,2024-01-10
+1,SD04,West Darfur,,,Darfur conflict,BA,210391,43,2015-09-30
 2,SD03,South Darfur,SD03143,Ed Al Fursan,Armed Clashes in Sudan,BA,11135,36,2024-01-18
 2,SD03,South Darfur,SD03143,Ed Al Fursan,Armed Clashes in Sudan,BA,13675,37,2024-02-02
 2,SD03,South Darfur,SD03143,Ed Al Fursan,Armed Clashes in Sudan,BA,13675,38,2024-02-07
@@ -3553,7 +3554,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03145,Mershing,Armed Clashes in Sudan (Overview),BA,81939,29,2025-10-31
 2,SD03,South Darfur,SD03145,Mershing,Armed Clashes in Sudan (Overview),BA,81976,30,2025-11-30
 2,SD03,South Darfur,SD03145,Mershing,Armed Clashes in Sudan (Overview),BA,82091,31,2025-12-31
-1,SD04,West Darfur,,,Darfur conflict,BA,126293,9,2011-11-30
 2,SD03,South Darfur,SD03145,Mershing,Armed Clashes in Sudan (Overview),BA,82091,32,2026-01-31
 2,SD03,South Darfur,SD03145,Mershing,Armed Clashes in Sudan (Overview),BA,82126,33,2026-02-28
 2,SD03,South Darfur,SD03145,Mershing,Armed Clashes in Sudan (Overview),BA,82126,34,2026-03-31
@@ -3635,6 +3635,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03146,Um Dafoug,Armed Clashes in Sudan (Overview),BA,3835,28,2025-09-30
 2,SD03,South Darfur,SD03146,Um Dafoug,Armed Clashes in Sudan (Overview),BA,4750,29,2025-10-31
 2,SD03,South Darfur,SD03146,Um Dafoug,Armed Clashes in Sudan (Overview),BA,4750,30,2025-11-30
+1,SD04,West Darfur,,,Darfur conflict,BA,210391,44,2015-10-30
 2,SD03,South Darfur,SD03146,Um Dafoug,Armed Clashes in Sudan (Overview),BA,4765,31,2025-12-31
 2,SD03,South Darfur,SD03146,Um Dafoug,Armed Clashes in Sudan (Overview),BA,4765,32,2026-01-31
 2,SD03,South Darfur,SD03146,Um Dafoug,Armed Clashes in Sudan (Overview),BA,4880,33,2026-02-28
@@ -3713,7 +3714,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03147,Sharg Aj Jabal,Armed Clashes in Sudan,BA,23470,30,2023-11-29
 2,SD03,South Darfur,SD03147,Sharg Aj Jabal,Armed Clashes in Sudan,BA,23470,31,2023-12-06
 2,SD03,South Darfur,SD03147,Sharg Aj Jabal,Armed Clashes in Sudan,BA,23470,32,2023-12-13
-1,SD04,West Darfur,,,Darfur conflict,BA,126293,10,2011-12-31
 2,SD03,South Darfur,SD03147,Sharg Aj Jabal,Armed Clashes in Sudan,BA,24720,33,2023-12-27
 2,SD03,South Darfur,SD03147,Sharg Aj Jabal,Armed Clashes in Sudan,BA,24720,34,2024-01-03
 2,SD03,South Darfur,SD03147,Sharg Aj Jabal,Armed Clashes in Sudan,BA,27555,35,2024-01-10
@@ -4350,7 +4350,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03157,Kubum,Armed Clashes in Sudan,BA,5375,38,2024-02-07
 2,SD03,South Darfur,SD03157,Kubum,Armed Clashes in Sudan,BA,5375,39,2024-02-15
 2,SD03,South Darfur,SD03157,Kubum,Armed Clashes in Sudan,BA,5375,40,2024-02-28
-1,SD04,West Darfur,,,Darfur conflict,BA,126293,11,2012-01-31
 2,SD03,South Darfur,SD03157,Kubum,Armed Clashes in Sudan,BA,5375,41,2024-03-06
 2,SD03,South Darfur,SD03157,Kubum,Armed Clashes in Sudan,BA,5375,42,2024-03-13
 2,SD03,South Darfur,SD03157,Kubum,Armed Clashes in Sudan,BA,5375,43,2024-03-28
@@ -4594,6 +4593,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03158,Rehaid Albirdi,Darfur conflict,BA,3650,4,2022-01-31
 2,SD03,South Darfur,SD03158,Rehaid Albirdi,Darfur conflict,BA,3650,5,2022-03-30
 2,SD03,South Darfur,SD03159,Kateila,Armed Clashes in Sudan,BA,3650,20,2023-09-03
+1,SD04,West Darfur,,,Darfur conflict,BA,210391,45,2015-11-30
 2,SD03,South Darfur,SD03159,Kateila,Armed Clashes in Sudan,BA,3650,21,2023-09-10
 2,SD03,South Darfur,SD03159,Kateila,Armed Clashes in Sudan,BA,3650,22,2023-09-17
 2,SD03,South Darfur,SD03159,Kateila,Armed Clashes in Sudan,BA,3650,23,2023-09-26
@@ -4724,7 +4724,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03161,Buram,Armed Clashes in Sudan,BA,4000,9,2023-06-18
 2,SD03,South Darfur,SD03161,Buram,Armed Clashes in Sudan,BA,4000,10,2023-06-25
 2,SD03,South Darfur,SD03161,Buram,Armed Clashes in Sudan,BA,4000,11,2023-07-01
-1,SD04,West Darfur,,,Darfur conflict,BA,126293,12,2012-02-28
 2,SD03,South Darfur,SD03161,Buram,Armed Clashes in Sudan,BA,4000,12,2023-07-09
 2,SD03,South Darfur,SD03161,Buram,Armed Clashes in Sudan,BA,4000,13,2023-07-16
 2,SD03,South Darfur,SD03161,Buram,Armed Clashes in Sudan,BA,4000,14,2023-07-23
@@ -4973,6 +4972,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03164,Nyala Shimal,Armed Clashes in Sudan (Monthly),BA,6215,8,2024-04-30
 2,SD03,South Darfur,SD03164,Nyala Shimal,Armed Clashes in Sudan (Overview),BA,305428,1,2023-08-31
 2,SD03,South Darfur,SD03164,Nyala Shimal,Armed Clashes in Sudan (Overview),BA,269700,2,2023-12-31
+1,SD04,West Darfur,,,Darfur conflict,BA,210391,46,2015-12-31
 2,SD03,South Darfur,SD03164,Nyala Shimal,Armed Clashes in Sudan (Overview),BA,327705,3,2024-05-31
 2,SD03,South Darfur,SD03164,Nyala Shimal,Armed Clashes in Sudan (Overview),BA,327705,4,2024-06-11
 2,SD03,South Darfur,SD03164,Nyala Shimal,Armed Clashes in Sudan (Overview),BA,327705,5,2024-06-16
@@ -5125,6 +5125,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD03,South Darfur,SD03166,As Salam - SD,Darfur conflict,BA,4829,66,2017-12-31
 2,SD03,South Darfur,SD03166,As Salam - SD,Darfur conflict,BA,4829,67,2018-02-28
 2,SD03,South Darfur,SD03166,As Salam - SD,Darfur conflict,BA,4829,68,2018-03-30
+1,SD04,West Darfur,,,Darfur conflict,BA,210391,47,2016-01-31
 2,SD03,South Darfur,SD03166,As Salam - SD,Darfur conflict,BA,4829,69,2018-06-30
 2,SD03,South Darfur,SD03166,As Salam - SD,Darfur conflict,BA,5464,0,2019-10-30
 2,SD03,South Darfur,SD03166,As Salam - SD,Darfur conflict,BA,4600,1,2020-01-30
@@ -5469,6 +5470,10 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD04,West Darfur,,,Darfur conflict,BA,41528,3,2011-03-30
 1,SD04,West Darfur,,,Darfur conflict,BA,84690,7,2011-09-30
 1,SD04,West Darfur,,,Darfur conflict,BA,126293,8,2011-10-30
+1,SD04,West Darfur,,,Darfur conflict,BA,126293,9,2011-11-30
+1,SD04,West Darfur,,,Darfur conflict,BA,126293,10,2011-12-31
+1,SD04,West Darfur,,,Darfur conflict,BA,126293,11,2012-01-31
+1,SD04,West Darfur,,,Darfur conflict,BA,126293,12,2012-02-28
 1,SD04,West Darfur,,,Darfur conflict,BA,126293,13,2012-03-30
 1,SD04,West Darfur,,,Darfur conflict,BA,126293,14,2012-05-30
 1,SD04,West Darfur,,,Darfur conflict,BA,126293,15,2012-06-30
@@ -5499,11 +5504,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD04,West Darfur,,,Darfur conflict,BA,210391,40,2015-06-30
 1,SD04,West Darfur,,,Darfur conflict,BA,210391,41,2015-07-30
 1,SD04,West Darfur,,,Darfur conflict,BA,210391,42,2015-08-30
-1,SD04,West Darfur,,,Darfur conflict,BA,210391,43,2015-09-30
-1,SD04,West Darfur,,,Darfur conflict,BA,210391,44,2015-10-30
-1,SD04,West Darfur,,,Darfur conflict,BA,210391,45,2015-11-30
-1,SD04,West Darfur,,,Darfur conflict,BA,210391,46,2015-12-31
-1,SD04,West Darfur,,,Darfur conflict,BA,210391,47,2016-01-31
 1,SD04,West Darfur,,,Darfur conflict,BA,210391,48,2016-02-28
 1,SD04,West Darfur,,,Darfur conflict,BA,210391,49,2016-03-30
 1,SD04,West Darfur,,,Darfur conflict,BA,210391,50,2016-04-30
@@ -5992,6 +5992,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD04,West Darfur,SD04122,Habila - WD,Armed Clashes in Sudan,BA,13435,46,2024-04-17
 2,SD04,West Darfur,SD04122,Habila - WD,Armed Clashes in Sudan (Monthly),BA,500,3,2023-11-30
 2,SD04,West Darfur,SD04122,Habila - WD,Armed Clashes in Sudan (Monthly),BA,500,4,2023-12-31
+1,SD05,East Darfur,,,Darfur conflict,BA,60396,40,2015-06-30
 2,SD04,West Darfur,SD04122,Habila - WD,Armed Clashes in Sudan (Monthly),BA,500,5,2024-01-31
 2,SD04,West Darfur,SD04122,Habila - WD,Armed Clashes in Sudan (Monthly),BA,13435,6,2024-02-29
 2,SD04,West Darfur,SD04122,Habila - WD,Armed Clashes in Sudan (Monthly),BA,13435,7,2024-03-31
@@ -6042,6 +6043,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD04,West Darfur,SD04122,Habila - WD,Darfur conflict,BA,15039,12,2012-02-28
 2,SD04,West Darfur,SD04122,Habila - WD,Darfur conflict,BA,15039,13,2012-03-30
 2,SD04,West Darfur,SD04122,Habila - WD,Darfur conflict,BA,15039,14,2012-05-30
+1,SD05,East Darfur,,,Darfur conflict,BA,60396,41,2015-07-30
 2,SD04,West Darfur,SD04122,Habila - WD,Darfur conflict,BA,15039,15,2012-06-30
 2,SD04,West Darfur,SD04122,Habila - WD,Darfur conflict,BA,15039,16,2012-07-30
 2,SD04,West Darfur,SD04122,Habila - WD,Darfur conflict,BA,15039,17,2012-09-30
@@ -6175,7 +6177,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD04,West Darfur,SD04123,Jebel Moon,Armed Clashes in Sudan (Overview),BA,54105,29,2025-10-31
 2,SD04,West Darfur,SD04123,Jebel Moon,Armed Clashes in Sudan (Overview),BA,54120,30,2025-11-30
 2,SD04,West Darfur,SD04123,Jebel Moon,Armed Clashes in Sudan (Overview),BA,54160,31,2025-12-31
-1,SD05,East Darfur,,,Darfur conflict,BA,60396,67,2018-02-28
 2,SD04,West Darfur,SD04123,Jebel Moon,Armed Clashes in Sudan (Overview),BA,54335,32,2026-01-31
 2,SD04,West Darfur,SD04123,Jebel Moon,Armed Clashes in Sudan (Overview),BA,54390,33,2026-02-28
 2,SD04,West Darfur,SD04123,Jebel Moon,Armed Clashes in Sudan (Overview),BA,54440,34,2026-03-31
@@ -6499,7 +6500,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD05,East Darfur,,,Armed Clashes in Sudan,BA,659605,35,2024-01-10
 1,SD05,East Darfur,,,Armed Clashes in Sudan,BA,660405,36,2024-01-18
 1,SD05,East Darfur,,,Armed Clashes in Sudan,BA,660940,37,2024-02-02
-1,SD05,East Darfur,,,Darfur conflict,BA,60396,68,2018-03-30
 1,SD05,East Darfur,,,Armed Clashes in Sudan,BA,661315,38,2024-02-07
 1,SD05,East Darfur,,,Armed Clashes in Sudan,BA,661380,39,2024-02-15
 1,SD05,East Darfur,,,Armed Clashes in Sudan,BA,663380,40,2024-02-28
@@ -6530,6 +6530,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD05,East Darfur,,,Armed Clashes in Sudan (Overview),BA,781098,11,2024-09-10
 1,SD05,East Darfur,,,Armed Clashes in Sudan (Overview),BA,781723,12,2024-09-30
 1,SD05,East Darfur,,,Armed Clashes in Sudan (Overview),BA,782273,13,2024-10-08
+1,SD05,East Darfur,,,Darfur conflict,BA,60396,42,2015-08-30
 1,SD05,East Darfur,,,Armed Clashes in Sudan (Overview),BA,782803,14,2024-10-22
 1,SD05,East Darfur,,,Armed Clashes in Sudan (Overview),BA,783053,15,2024-11-06
 1,SD05,East Darfur,,,Armed Clashes in Sudan (Overview),BA,783368,16,2024-11-21
@@ -6587,9 +6588,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,37,2015-03-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,38,2015-04-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,39,2015-05-30
-1,SD05,East Darfur,,,Darfur conflict,BA,60396,40,2015-06-30
-1,SD05,East Darfur,,,Darfur conflict,BA,60396,41,2015-07-30
-1,SD05,East Darfur,,,Darfur conflict,BA,60396,42,2015-08-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,43,2015-09-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,44,2015-10-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,45,2015-11-30
@@ -6614,6 +6612,8 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,64,2017-10-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,65,2017-11-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,66,2017-12-31
+1,SD05,East Darfur,,,Darfur conflict,BA,60396,67,2018-02-28
+1,SD05,East Darfur,,,Darfur conflict,BA,60396,68,2018-03-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,69,2018-06-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,70,2018-08-30
 1,SD05,East Darfur,,,Darfur conflict,BA,60396,0,2019-10-30
@@ -6825,7 +6825,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD05,East Darfur,SD05142,Ad Du'ayn,Armed Clashes in Sudan (Monthly),BA,121775,3,2023-11-30
 2,SD05,East Darfur,SD05142,Ad Du'ayn,Armed Clashes in Sudan (Monthly),BA,130605,4,2023-12-31
 2,SD05,East Darfur,SD05142,Ad Du'ayn,Armed Clashes in Sudan (Monthly),BA,130755,5,2024-01-31
-1,SD06,Central Darfur,,,Darfur conflict,BA,137909,7,2011-09-30
 2,SD05,East Darfur,SD05142,Ad Du'ayn,Armed Clashes in Sudan (Monthly),BA,130970,6,2024-02-29
 2,SD05,East Darfur,SD05142,Ad Du'ayn,Armed Clashes in Sudan (Monthly),BA,132820,7,2024-03-31
 2,SD05,East Darfur,SD05142,Ad Du'ayn,Armed Clashes in Sudan (Monthly),BA,127570,8,2024-04-30
@@ -7069,6 +7068,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD05,East Darfur,SD05152,Al Firdous,Armed Clashes in Sudan (Overview),BA,59700,11,2024-09-10
 2,SD05,East Darfur,SD05152,Al Firdous,Armed Clashes in Sudan (Overview),BA,59700,12,2024-09-30
 2,SD05,East Darfur,SD05152,Al Firdous,Armed Clashes in Sudan (Overview),BA,59700,13,2024-10-08
+1,SD06,Central Darfur,,,Darfur conflict,BA,370278,42,2015-08-30
 2,SD05,East Darfur,SD05152,Al Firdous,Armed Clashes in Sudan (Overview),BA,59700,14,2024-10-22
 2,SD05,East Darfur,SD05152,Al Firdous,Armed Clashes in Sudan (Overview),BA,59700,15,2024-11-06
 2,SD05,East Darfur,SD05152,Al Firdous,Armed Clashes in Sudan (Overview),BA,59700,16,2024-11-21
@@ -7273,6 +7273,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan,BA,19425,33,2023-12-27
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan,BA,19475,34,2024-01-03
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan,BA,19475,35,2024-01-10
+1,SD06,Central Darfur,,,Darfur conflict,BA,370278,43,2015-09-30
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan,BA,19475,36,2024-01-18
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan,BA,19900,37,2024-02-02
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan,BA,19900,38,2024-02-07
@@ -7294,7 +7295,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Monthly),BA,20550,8,2024-04-30
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,5610,1,2023-08-31
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,24835,2,2023-12-31
-1,SD06,Central Darfur,,,Darfur conflict,BA,137909,8,2011-10-30
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,25240,3,2024-05-31
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,25240,4,2024-06-11
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,25240,5,2024-06-16
@@ -7324,6 +7324,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,28724,29,2025-10-31
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,28724,30,2025-11-30
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,28776,31,2025-12-31
+1,SD06,Central Darfur,,,Darfur conflict,BA,370278,44,2015-10-30
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,28806,32,2026-01-31
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,29637,33,2026-02-28
 2,SD05,East Darfur,SD05163,Assalaya,Armed Clashes in Sudan (Overview),BA,29637,34,2026-03-31
@@ -7509,6 +7510,8 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD06,Central Darfur,,,Armed Clashes in Sudan (Overview),BA,994752,39,2026-08-31
 1,SD06,Central Darfur,,,Darfur conflict,BA,17637,2,2011-02-28
 1,SD06,Central Darfur,,,Darfur conflict,BA,17637,3,2011-03-30
+1,SD06,Central Darfur,,,Darfur conflict,BA,137909,7,2011-09-30
+1,SD06,Central Darfur,,,Darfur conflict,BA,137909,8,2011-10-30
 1,SD06,Central Darfur,,,Darfur conflict,BA,137909,9,2011-11-30
 1,SD06,Central Darfur,,,Darfur conflict,BA,185017,10,2011-12-31
 1,SD06,Central Darfur,,,Darfur conflict,BA,217433,11,2012-01-31
@@ -7542,9 +7545,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD06,Central Darfur,,,Darfur conflict,BA,368591,39,2015-05-30
 1,SD06,Central Darfur,,,Darfur conflict,BA,368591,40,2015-06-30
 1,SD06,Central Darfur,,,Darfur conflict,BA,370278,41,2015-07-30
-1,SD06,Central Darfur,,,Darfur conflict,BA,370278,42,2015-08-30
-1,SD06,Central Darfur,,,Darfur conflict,BA,370278,43,2015-09-30
-1,SD06,Central Darfur,,,Darfur conflict,BA,370278,44,2015-10-30
 1,SD06,Central Darfur,,,Darfur conflict,BA,370278,45,2015-11-30
 1,SD06,Central Darfur,,,Darfur conflict,BA,409823,46,2015-12-31
 1,SD06,Central Darfur,,,Darfur conflict,BA,409823,47,2016-01-31
@@ -7788,7 +7788,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06112,Bendasi,Darfur conflict,BA,18241,63,2017-08-30
 2,SD06,Central Darfur,SD06112,Bendasi,Darfur conflict,BA,18241,64,2017-10-30
 2,SD06,Central Darfur,SD06112,Bendasi,Darfur conflict,BA,18241,65,2017-11-30
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,511106,45,2024-04-12
 2,SD06,Central Darfur,SD06112,Bendasi,Darfur conflict,BA,18241,66,2017-12-31
 2,SD06,Central Darfur,SD06112,Bendasi,Darfur conflict,BA,18241,67,2018-02-28
 2,SD06,Central Darfur,SD06112,Bendasi,Darfur conflict,BA,18241,68,2018-03-30
@@ -7821,6 +7820,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06130,Mukjar,Armed Clashes in Sudan,BA,2625,45,2024-04-12
 2,SD06,Central Darfur,SD06130,Mukjar,Armed Clashes in Sudan,BA,2625,46,2024-04-17
 2,SD06,Central Darfur,SD06130,Mukjar,Armed Clashes in Sudan (Monthly),BA,475,2,2023-10-31
+1,SD07,South Kordofan,,,Darfur conflict,BA,177042,56,2016-12-31
 2,SD06,Central Darfur,SD06130,Mukjar,Armed Clashes in Sudan (Monthly),BA,475,3,2023-11-30
 2,SD06,Central Darfur,SD06130,Mukjar,Armed Clashes in Sudan (Monthly),BA,475,4,2023-12-31
 2,SD06,Central Darfur,SD06130,Mukjar,Armed Clashes in Sudan (Monthly),BA,900,5,2024-01-31
@@ -7951,7 +7951,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan,BA,5350,20,2023-09-03
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan,BA,5350,21,2023-09-10
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan,BA,5350,22,2023-09-17
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,512186,46,2024-04-17
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan,BA,6000,23,2023-09-26
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan,BA,6000,24,2023-10-05
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan,BA,6000,25,2023-10-13
@@ -7980,6 +7979,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,16500,2,2023-10-31
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,32705,3,2023-11-30
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,33000,4,2023-12-31
+1,SD07,South Kordofan,,,Darfur conflict,BA,177308,57,2017-01-31
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,33000,5,2024-01-31
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,42865,6,2024-02-29
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,42865,7,2024-03-31
@@ -8027,6 +8027,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Darfur conflict,BA,34920,15,2012-06-30
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Darfur conflict,BA,34920,16,2012-07-30
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Darfur conflict,BA,34920,17,2012-09-30
+1,SD07,South Kordofan,,,Darfur conflict,BA,177463,58,2017-02-28
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Darfur conflict,BA,34920,18,2013-01-31
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Darfur conflict,BA,34920,19,2013-04-30
 2,SD06,Central Darfur,SD06131,Gharb Jabal Marrah,Darfur conflict,BA,34920,20,2013-05-30
@@ -8128,6 +8129,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06132,Shamal Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,77805,3,2023-11-30
 2,SD06,Central Darfur,SD06132,Shamal Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,78500,4,2023-12-31
 2,SD06,Central Darfur,SD06132,Shamal Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,80075,5,2024-01-31
+1,SD07,South Kordofan,,,Darfur conflict,BA,178060,59,2017-03-30
 2,SD06,Central Darfur,SD06132,Shamal Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,86245,6,2024-02-29
 2,SD06,Central Darfur,SD06132,Shamal Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,86495,7,2024-03-31
 2,SD06,Central Darfur,SD06132,Shamal Jabal Marrah,Armed Clashes in Sudan (Monthly),BA,87544,8,2024-04-30
@@ -8355,7 +8357,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan,BA,280,3,2023-05-07
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan,BA,280,4,2023-05-14
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan,BA,280,5,2023-05-21
-1,SD18,West Kordofan,,,Darfur conflict,BA,73015,1,2020-01-30
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan,BA,280,6,2023-05-29
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan,BA,280,7,2023-06-04
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan,BA,280,8,2023-06-13
@@ -8407,7 +8408,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan (Monthly),BA,18030,8,2024-04-30
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan (Overview),BA,54306,1,2023-08-31
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan (Overview),BA,72963,2,2023-12-31
-1,SD18,West Kordofan,,,Darfur conflict,BA,91343,2,2021-03-30
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan (Overview),BA,85963,3,2024-05-31
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan (Overview),BA,85963,4,2024-06-11
 2,SD06,Central Darfur,SD06137,Wadi Salih,Armed Clashes in Sudan (Overview),BA,85963,5,2024-06-16
@@ -8567,7 +8567,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06138,Zalingi,Armed Clashes in Sudan (Overview),BA,268763,1,2023-08-31
 2,SD06,Central Darfur,SD06138,Zalingi,Armed Clashes in Sudan (Overview),BA,237030,2,2023-12-31
 2,SD06,Central Darfur,SD06138,Zalingi,Armed Clashes in Sudan (Overview),BA,208848,3,2024-05-31
-1,SD18,West Kordofan,,,Darfur conflict,BA,100104,3,2021-12-31
 2,SD06,Central Darfur,SD06138,Zalingi,Armed Clashes in Sudan (Overview),BA,216688,4,2024-06-11
 2,SD06,Central Darfur,SD06138,Zalingi,Armed Clashes in Sudan (Overview),BA,216688,5,2024-06-16
 2,SD06,Central Darfur,SD06138,Zalingi,Armed Clashes in Sudan (Overview),BA,216688,6,2024-07-03
@@ -8725,7 +8724,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD06,Central Darfur,SD06139,Wasat Jabal Marrah,Armed Clashes in Sudan (Overview),BA,169210,6,2024-07-03
 2,SD06,Central Darfur,SD06139,Wasat Jabal Marrah,Armed Clashes in Sudan (Overview),BA,170260,7,2024-07-16
 2,SD06,Central Darfur,SD06139,Wasat Jabal Marrah,Armed Clashes in Sudan (Overview),BA,171020,8,2024-07-31
-1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,106863,19,2023-08-27
 2,SD06,Central Darfur,SD06139,Wasat Jabal Marrah,Armed Clashes in Sudan (Overview),BA,171195,9,2024-08-18
 2,SD06,Central Darfur,SD06139,Wasat Jabal Marrah,Armed Clashes in Sudan (Overview),BA,171195,10,2024-08-31
 2,SD06,Central Darfur,SD06139,Wasat Jabal Marrah,Armed Clashes in Sudan (Overview),BA,171790,11,2024-09-10
@@ -8776,6 +8774,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,66085,16,2023-08-06
 1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,69455,17,2023-08-13
 1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,106122,18,2023-08-20
+1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,106863,19,2023-08-27
 1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,79299,20,2023-09-03
 1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,79821,21,2023-09-10
 1,SD07,South Kordofan,,,Armed Clashes in Sudan,BA,83505,22,2023-09-17
@@ -8863,10 +8862,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD07,South Kordofan,,,Darfur conflict,BA,175961,53,2016-07-30
 1,SD07,South Kordofan,,,Darfur conflict,BA,176611,54,2016-08-30
 1,SD07,South Kordofan,,,Darfur conflict,BA,176968,55,2016-11-30
-1,SD07,South Kordofan,,,Darfur conflict,BA,177042,56,2016-12-31
-1,SD07,South Kordofan,,,Darfur conflict,BA,177308,57,2017-01-31
-1,SD07,South Kordofan,,,Darfur conflict,BA,177463,58,2017-02-28
-1,SD07,South Kordofan,,,Darfur conflict,BA,178060,59,2017-03-30
 1,SD07,South Kordofan,,,Darfur conflict,BA,178393,60,2017-04-30
 1,SD07,South Kordofan,,,Darfur conflict,BA,179266,61,2017-05-30
 1,SD07,South Kordofan,,,Darfur conflict,BA,179665,62,2017-06-30
@@ -8921,6 +8916,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Armed Clashes in Sudan,BA,18534,43,2024-03-28
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Armed Clashes in Sudan,BA,18534,44,2024-04-04
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Armed Clashes in Sudan,BA,18534,45,2024-04-12
+2,SD10,Red Sea,SD10063,Dordieb,Darfur conflict,BA,325,4,2022-01-31
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Armed Clashes in Sudan,BA,18534,46,2024-04-17
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Armed Clashes in Sudan (Monthly),BA,8284,1,2023-09-30
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Armed Clashes in Sudan (Monthly),BA,12550,2,2023-10-31
@@ -8990,7 +8986,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Darfur conflict,BA,20026,65,2017-11-30
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Darfur conflict,BA,20026,66,2017-12-31
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Darfur conflict,BA,20026,67,2018-02-28
-1,SD18,West Kordofan,,,Darfur conflict,BA,140213,4,2022-01-31
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Darfur conflict,BA,20026,68,2018-03-30
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Darfur conflict,BA,20026,69,2018-06-30
 2,SD07,South Kordofan,SD07088,Abu Jubayhah,Darfur conflict,BA,20136,70,2018-08-30
@@ -9359,7 +9354,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan,BA,1812,19,2023-08-27
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan,BA,1812,20,2023-09-03
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan,BA,1965,21,2023-09-10
-1,SD18,West Kordofan,,,Darfur conflict,BA,140213,5,2022-03-30
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan,BA,1965,22,2023-09-17
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan,BA,1965,23,2023-09-26
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan,BA,1965,24,2023-10-05
@@ -9396,6 +9390,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan (Overview),BA,5092,1,2023-08-31
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan (Overview),BA,6134,2,2023-12-31
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan (Overview),BA,8677,3,2024-05-31
+2,SD10,Red Sea,SD10063,Dordieb,Darfur conflict,BA,325,5,2022-03-30
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan (Overview),BA,8677,4,2024-06-11
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan (Overview),BA,8677,5,2024-06-16
 2,SD07,South Kordofan,SD07094,Al Quoz,Armed Clashes in Sudan (Overview),BA,8677,6,2024-07-03
@@ -9553,6 +9548,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07095,Dilling,Darfur conflict,BA,9568,55,2016-11-30
 2,SD07,South Kordofan,SD07095,Dilling,Darfur conflict,BA,9568,56,2016-12-31
 2,SD07,South Kordofan,SD07095,Dilling,Darfur conflict,BA,9594,57,2017-01-31
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,150510,11,2023-07-01
 2,SD07,South Kordofan,SD07095,Dilling,Darfur conflict,BA,9594,58,2017-02-28
 2,SD07,South Kordofan,SD07095,Dilling,Darfur conflict,BA,9611,59,2017-03-30
 2,SD07,South Kordofan,SD07095,Dilling,Darfur conflict,BA,9611,60,2017-04-30
@@ -9620,7 +9616,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Armed Clashes in Sudan (Overview),BA,39030,6,2024-07-03
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Armed Clashes in Sudan (Overview),BA,39030,7,2024-07-16
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Armed Clashes in Sudan (Overview),BA,39030,8,2024-07-31
-2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9864,0,2019-10-30
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Armed Clashes in Sudan (Overview),BA,39030,9,2024-08-18
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Armed Clashes in Sudan (Overview),BA,39030,10,2024-08-31
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Armed Clashes in Sudan (Overview),BA,39030,11,2024-09-10
@@ -9670,6 +9665,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9864,68,2018-03-30
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9864,69,2018-06-30
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9864,70,2018-08-30
+2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9864,0,2019-10-30
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9382,1,2020-01-30
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,9382,2,2021-03-30
 2,SD07,South Kordofan,SD07097,Ar Reif Ash Shargi,Darfur conflict,BA,10425,3,2021-12-31
@@ -9705,6 +9701,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan,BA,11164,35,2024-01-10
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan,BA,11164,36,2024-01-18
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan,BA,11164,37,2024-02-02
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,209200,12,2023-07-09
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan,BA,11164,38,2024-02-07
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan,BA,11164,39,2024-02-15
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan,BA,13012,40,2024-02-28
@@ -9723,7 +9720,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan (Monthly),BA,12719,7,2024-03-31
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan (Monthly),BA,13804,8,2024-04-30
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan (Overview),BA,72742,1,2023-08-31
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,348689,32,2023-12-13
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan (Overview),BA,86012,2,2023-12-31
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan (Overview),BA,85565,3,2024-05-31
 2,SD07,South Kordofan,SD07098,Kadugli,Armed Clashes in Sudan (Overview),BA,85565,4,2024-06-11
@@ -9861,6 +9857,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07103,Habila - SK,Armed Clashes in Sudan (Overview),BA,59211,18,2024-12-17
 2,SD07,South Kordofan,SD07103,Habila - SK,Armed Clashes in Sudan (Overview),BA,59211,19,2024-12-31
 2,SD07,South Kordofan,SD07103,Habila - SK,Armed Clashes in Sudan (Overview),BA,59211,20,2025-01-14
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,211011,13,2023-07-16
 2,SD07,South Kordofan,SD07103,Habila - SK,Armed Clashes in Sudan (Overview),BA,59211,21,2025-01-28
 2,SD07,South Kordofan,SD07103,Habila - SK,Armed Clashes in Sudan (Overview),BA,55631,22,2025-03-31
 2,SD07,South Kordofan,SD07103,Habila - SK,Armed Clashes in Sudan (Overview),BA,10925,23,2025-04-30
@@ -10066,6 +10063,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07105,Al Leri,Armed Clashes in Sudan (Overview),BA,7278,20,2025-01-14
 2,SD07,South Kordofan,SD07105,Al Leri,Armed Clashes in Sudan (Overview),BA,7278,21,2025-01-28
 2,SD07,South Kordofan,SD07105,Al Leri,Armed Clashes in Sudan (Overview),BA,7288,22,2025-03-31
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,217426,14,2023-07-23
 2,SD07,South Kordofan,SD07105,Al Leri,Armed Clashes in Sudan (Overview),BA,7423,23,2025-04-30
 2,SD07,South Kordofan,SD07105,Al Leri,Armed Clashes in Sudan (Overview),BA,7728,24,2025-05-28
 2,SD07,South Kordofan,SD07105,Al Leri,Armed Clashes in Sudan (Overview),BA,7768,25,2025-06-30
@@ -10117,6 +10115,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07106,At Tadamon - SK,Armed Clashes in Sudan,BA,1216,33,2023-12-27
 2,SD07,South Kordofan,SD07106,At Tadamon - SK,Armed Clashes in Sudan,BA,1216,34,2024-01-03
 2,SD07,South Kordofan,SD07106,At Tadamon - SK,Armed Clashes in Sudan,BA,1216,35,2024-01-10
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,245896,15,2023-07-30
 2,SD07,South Kordofan,SD07106,At Tadamon - SK,Armed Clashes in Sudan,BA,1216,36,2024-01-18
 2,SD07,South Kordofan,SD07106,At Tadamon - SK,Armed Clashes in Sudan,BA,1216,37,2024-02-02
 2,SD07,South Kordofan,SD07106,At Tadamon - SK,Armed Clashes in Sudan,BA,1216,38,2024-02-07
@@ -10235,7 +10234,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD07,South Kordofan,SD07107,Delami,Armed Clashes in Sudan (Overview),BA,4731,19,2024-12-31
 2,SD07,South Kordofan,SD07107,Delami,Armed Clashes in Sudan (Overview),BA,4731,20,2025-01-14
 2,SD07,South Kordofan,SD07107,Delami,Armed Clashes in Sudan (Overview),BA,4731,21,2025-01-28
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,418336,33,2023-12-27
 2,SD07,South Kordofan,SD07107,Delami,Armed Clashes in Sudan (Overview),BA,4731,22,2025-03-31
 2,SD07,South Kordofan,SD07107,Delami,Armed Clashes in Sudan (Overview),BA,5581,23,2025-04-30
 2,SD07,South Kordofan,SD07107,Delami,Armed Clashes in Sudan (Overview),BA,5581,24,2025-05-28
@@ -10451,7 +10449,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD08,Blue Nile,SD08104,Baw,Armed Clashes in Sudan (Monthly),BA,6475,6,2024-02-29
 2,SD08,Blue Nile,SD08104,Baw,Armed Clashes in Sudan (Monthly),BA,8155,7,2024-03-31
 2,SD08,Blue Nile,SD08104,Baw,Armed Clashes in Sudan (Monthly),BA,9215,8,2024-04-30
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,422499,34,2024-01-03
 2,SD08,Blue Nile,SD08104,Baw,Armed Clashes in Sudan (Overview),BA,41256,1,2023-08-31
 2,SD08,Blue Nile,SD08104,Baw,Armed Clashes in Sudan (Overview),BA,41256,2,2023-12-31
 2,SD08,Blue Nile,SD08104,Baw,Armed Clashes in Sudan (Overview),BA,50471,3,2024-05-31
@@ -10850,6 +10847,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,Armed Clashes in Sudan (Overview),BA,24190,19,2024-12-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,Armed Clashes in Sudan (Overview),BA,24040,20,2025-01-14
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,Armed Clashes in Sudan (Overview),BA,24040,21,2025-01-28
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,259934,16,2023-08-06
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,Armed Clashes in Sudan (Overview),BA,23200,22,2025-03-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,Armed Clashes in Sudan (Overview),BA,21475,23,2025-04-30
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,Armed Clashes in Sudan (Overview),BA,21475,24,2025-05-28
@@ -11008,6 +11006,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD08,Blue Nile,SD08110,Wad Al Mahi,Armed Clashes in Sudan (Overview),BA,8486,3,2024-05-31
 2,SD08,Blue Nile,SD08110,Wad Al Mahi,Armed Clashes in Sudan (Overview),BA,9671,4,2024-06-11
 2,SD08,Blue Nile,SD08110,Wad Al Mahi,Armed Clashes in Sudan (Overview),BA,9671,5,2024-06-16
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,282352,17,2023-08-13
 2,SD08,Blue Nile,SD08110,Wad Al Mahi,Armed Clashes in Sudan (Overview),BA,9671,6,2024-07-03
 2,SD08,Blue Nile,SD08110,Wad Al Mahi,Armed Clashes in Sudan (Overview),BA,9671,7,2024-07-16
 2,SD08,Blue Nile,SD08110,Wad Al Mahi,Armed Clashes in Sudan (Overview),BA,9671,8,2024-07-31
@@ -11241,7 +11240,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD09,White Nile,SD09045,Um Rimta,Armed Clashes in Sudan,BA,11540,8,2023-06-13
 2,SD09,White Nile,SD09045,Um Rimta,Armed Clashes in Sudan,BA,16165,9,2023-06-18
 2,SD09,White Nile,SD09045,Um Rimta,Armed Clashes in Sudan,BA,16165,10,2023-06-25
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,426503,35,2024-01-10
 2,SD09,White Nile,SD09045,Um Rimta,Armed Clashes in Sudan,BA,16165,11,2023-07-01
 2,SD09,White Nile,SD09045,Um Rimta,Armed Clashes in Sudan,BA,16165,12,2023-07-09
 2,SD09,White Nile,SD09045,Um Rimta,Armed Clashes in Sudan,BA,16165,13,2023-07-16
@@ -11595,6 +11593,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD09,White Nile,SD09048,Tendalti,Armed Clashes in Sudan (Overview),BA,15991,30,2025-11-30
 2,SD09,White Nile,SD09048,Tendalti,Armed Clashes in Sudan (Overview),BA,16769,31,2025-12-31
 2,SD09,White Nile,SD09048,Tendalti,Armed Clashes in Sudan (Overview),BA,16549,32,2026-01-31
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,287062,18,2023-08-20
 2,SD09,White Nile,SD09048,Tendalti,Armed Clashes in Sudan (Overview),BA,14516,33,2026-02-28
 2,SD09,White Nile,SD09048,Tendalti,Armed Clashes in Sudan (Overview),BA,14316,34,2026-03-31
 2,SD09,White Nile,SD09048,Tendalti,Armed Clashes in Sudan (Overview),BA,9824,35,2026-04-30
@@ -11818,7 +11817,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD09,White Nile,SD09051,Aj Jabalain,Armed Clashes in Sudan,BA,75231,29,2023-11-15
 2,SD09,White Nile,SD09051,Aj Jabalain,Armed Clashes in Sudan,BA,75552,30,2023-11-29
 2,SD09,White Nile,SD09051,Aj Jabalain,Armed Clashes in Sudan,BA,75388,31,2023-12-06
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,430962,36,2024-01-18
 2,SD09,White Nile,SD09051,Aj Jabalain,Armed Clashes in Sudan,BA,75388,32,2023-12-13
 2,SD09,White Nile,SD09051,Aj Jabalain,Armed Clashes in Sudan,BA,88783,33,2023-12-27
 2,SD09,White Nile,SD09051,Aj Jabalain,Armed Clashes in Sudan,BA,92868,34,2024-01-03
@@ -11978,7 +11976,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD10,Red Sea,,,Armed Clashes in Sudan,BA,14925,4,2023-05-14
 1,SD10,Red Sea,,,Armed Clashes in Sudan,BA,13014,5,2023-05-21
 1,SD10,Red Sea,,,Armed Clashes in Sudan,BA,17631,6,2023-05-29
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,434707,37,2024-02-02
 1,SD10,Red Sea,,,Armed Clashes in Sudan,BA,22817,7,2023-06-04
 1,SD10,Red Sea,,,Armed Clashes in Sudan,BA,28600,8,2023-06-13
 1,SD10,Red Sea,,,Armed Clashes in Sudan,BA,32605,9,2023-06-18
@@ -12125,8 +12122,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD10,Red Sea,SD10063,Dordieb,Armed Clashes in Sudan (Overview),BA,1840,37,2026-06-30
 2,SD10,Red Sea,SD10063,Dordieb,Armed Clashes in Sudan (Overview),BA,1800,38,2026-07-31
 2,SD10,Red Sea,SD10063,Dordieb,Armed Clashes in Sudan (Overview),BA,1800,39,2026-08-31
-2,SD10,Red Sea,SD10063,Dordieb,Darfur conflict,BA,325,4,2022-01-31
-2,SD10,Red Sea,SD10063,Dordieb,Darfur conflict,BA,325,5,2022-03-30
 2,SD10,Red Sea,SD10064,Port Sudan,Armed Clashes in Sudan,BA,1010,2,2023-04-28
 2,SD10,Red Sea,SD10064,Port Sudan,Armed Clashes in Sudan,BA,8700,3,2023-05-07
 2,SD10,Red Sea,SD10064,Port Sudan,Armed Clashes in Sudan,BA,14730,4,2023-05-14
@@ -12409,7 +12404,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD10,Red Sea,SD10067,Jubayt Elma'aadin,Armed Clashes in Sudan (Monthly),BA,345,8,2024-04-30
 2,SD10,Red Sea,SD10067,Jubayt Elma'aadin,Armed Clashes in Sudan (Overview),BA,100,1,2023-08-31
 2,SD10,Red Sea,SD10067,Jubayt Elma'aadin,Armed Clashes in Sudan (Overview),BA,135,2,2023-12-31
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,434707,38,2024-02-07
 2,SD10,Red Sea,SD10067,Jubayt Elma'aadin,Armed Clashes in Sudan (Overview),BA,345,3,2024-05-31
 2,SD10,Red Sea,SD10067,Jubayt Elma'aadin,Armed Clashes in Sudan (Overview),BA,345,4,2024-06-11
 2,SD10,Red Sea,SD10067,Jubayt Elma'aadin,Armed Clashes in Sudan (Overview),BA,345,5,2024-06-16
@@ -12501,6 +12495,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD10,Red Sea,SD10068,Sawakin,Armed Clashes in Sudan (Monthly),BA,5147,7,2024-03-31
 2,SD10,Red Sea,SD10068,Sawakin,Armed Clashes in Sudan (Monthly),BA,5647,8,2024-04-30
 2,SD10,Red Sea,SD10068,Sawakin,Armed Clashes in Sudan (Overview),BA,1790,1,2023-08-31
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,291684,19,2023-08-27
 2,SD10,Red Sea,SD10068,Sawakin,Armed Clashes in Sudan (Overview),BA,2815,2,2023-12-31
 2,SD10,Red Sea,SD10068,Sawakin,Armed Clashes in Sudan (Overview),BA,6812,3,2024-05-31
 2,SD10,Red Sea,SD10068,Sawakin,Armed Clashes in Sudan (Overview),BA,6812,4,2024-06-11
@@ -12770,6 +12765,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD10,Red Sea,SD10071,Sinkat,Armed Clashes in Sudan (Overview),BA,4134,28,2025-09-30
 2,SD10,Red Sea,SD10071,Sinkat,Armed Clashes in Sudan (Overview),BA,4097,29,2025-10-31
 2,SD10,Red Sea,SD10071,Sinkat,Armed Clashes in Sudan (Overview),BA,3986,30,2025-11-30
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,320632,20,2023-09-03
 2,SD10,Red Sea,SD10071,Sinkat,Armed Clashes in Sudan (Overview),BA,3824,31,2025-12-31
 2,SD10,Red Sea,SD10071,Sinkat,Armed Clashes in Sudan (Overview),BA,3906,32,2026-01-31
 2,SD10,Red Sea,SD10071,Sinkat,Armed Clashes in Sudan (Overview),BA,3667,33,2026-02-28
@@ -13052,7 +13048,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD11,Kassala,SD11053,Madeinat Kassala,Armed Clashes in Sudan (Monthly),BA,50730,2,2023-10-31
 2,SD11,Kassala,SD11053,Madeinat Kassala,Armed Clashes in Sudan (Monthly),BA,54442,3,2023-11-30
 2,SD11,Kassala,SD11053,Madeinat Kassala,Armed Clashes in Sudan (Monthly),BA,88867,4,2023-12-31
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,434707,39,2024-02-15
 2,SD11,Kassala,SD11053,Madeinat Kassala,Armed Clashes in Sudan (Monthly),BA,95252,5,2024-01-31
 2,SD11,Kassala,SD11053,Madeinat Kassala,Armed Clashes in Sudan (Monthly),BA,106017,6,2024-02-29
 2,SD11,Kassala,SD11053,Madeinat Kassala,Armed Clashes in Sudan (Monthly),BA,118002,7,2024-03-31
@@ -13597,6 +13592,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD11,Kassala,SD11060,Reifi Khashm Elgirba,Armed Clashes in Sudan (Overview),BA,8209,3,2024-05-31
 2,SD11,Kassala,SD11060,Reifi Khashm Elgirba,Armed Clashes in Sudan (Overview),BA,8209,4,2024-06-11
 2,SD11,Kassala,SD11060,Reifi Khashm Elgirba,Armed Clashes in Sudan (Overview),BA,8209,5,2024-06-16
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,320632,21,2023-09-10
 2,SD11,Kassala,SD11060,Reifi Khashm Elgirba,Armed Clashes in Sudan (Overview),BA,8209,6,2024-07-03
 2,SD11,Kassala,SD11060,Reifi Khashm Elgirba,Armed Clashes in Sudan (Overview),BA,8794,7,2024-07-16
 2,SD11,Kassala,SD11060,Reifi Khashm Elgirba,Armed Clashes in Sudan (Overview),BA,9164,8,2024-07-31
@@ -13985,7 +13981,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD12,Gedaref,SD12074,Al Fao,Armed Clashes in Sudan (Overview),BA,86963,11,2024-09-10
 2,SD12,Gedaref,SD12074,Al Fao,Armed Clashes in Sudan (Overview),BA,86963,12,2024-09-30
 2,SD12,Gedaref,SD12074,Al Fao,Armed Clashes in Sudan (Overview),BA,86963,13,2024-10-08
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,445383,40,2024-02-28
 2,SD12,Gedaref,SD12074,Al Fao,Armed Clashes in Sudan (Overview),BA,49219,14,2024-10-22
 2,SD12,Gedaref,SD12074,Al Fao,Armed Clashes in Sudan (Overview),BA,55944,15,2024-11-06
 2,SD12,Gedaref,SD12074,Al Fao,Armed Clashes in Sudan (Overview),BA,55944,16,2024-11-21
@@ -14335,6 +14330,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,Armed Clashes in Sudan (Monthly),BA,18115,7,2024-03-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,Armed Clashes in Sudan (Monthly),BA,18265,8,2024-04-30
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,Armed Clashes in Sudan (Overview),BA,8355,1,2023-08-31
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,321082,22,2023-09-17
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,Armed Clashes in Sudan (Overview),BA,12375,2,2023-12-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,Armed Clashes in Sudan (Overview),BA,18265,3,2024-05-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,Armed Clashes in Sudan (Overview),BA,18265,4,2024-06-11
@@ -14381,6 +14377,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD12,Gedaref,SD12079,Gala'a Al Nahal,Armed Clashes in Sudan,BA,1440,8,2023-06-13
 2,SD12,Gedaref,SD12079,Gala'a Al Nahal,Armed Clashes in Sudan,BA,5660,9,2023-06-18
 2,SD12,Gedaref,SD12079,Gala'a Al Nahal,Armed Clashes in Sudan,BA,5660,10,2023-06-25
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,323881,23,2023-09-26
 2,SD12,Gedaref,SD12079,Gala'a Al Nahal,Armed Clashes in Sudan,BA,6245,11,2023-07-01
 2,SD12,Gedaref,SD12079,Gala'a Al Nahal,Armed Clashes in Sudan,BA,6245,12,2023-07-09
 2,SD12,Gedaref,SD12079,Gala'a Al Nahal,Armed Clashes in Sudan,BA,6245,13,2023-07-16
@@ -14534,6 +14531,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD12,Gedaref,SD12080,Madeinat Al Gedaref,Armed Clashes in Sudan (Overview),BA,321787,16,2024-11-21
 2,SD12,Gedaref,SD12080,Madeinat Al Gedaref,Armed Clashes in Sudan (Overview),BA,350157,17,2024-12-03
 2,SD12,Gedaref,SD12080,Madeinat Al Gedaref,Armed Clashes in Sudan (Overview),BA,349757,18,2024-12-17
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,323736,24,2023-10-05
 2,SD12,Gedaref,SD12080,Madeinat Al Gedaref,Armed Clashes in Sudan (Overview),BA,350007,19,2024-12-31
 2,SD12,Gedaref,SD12080,Madeinat Al Gedaref,Armed Clashes in Sudan (Overview),BA,345715,20,2025-01-14
 2,SD12,Gedaref,SD12080,Madeinat Al Gedaref,Armed Clashes in Sudan (Overview),BA,345715,21,2025-01-28
@@ -14894,6 +14892,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,199320,12,2024-09-30
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,199320,13,2024-10-08
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,199320,14,2024-10-22
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,325411,25,2023-10-13
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,199320,15,2024-11-06
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,199320,16,2024-11-21
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,185145,17,2024-12-03
@@ -14914,7 +14913,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,20840,32,2026-01-31
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,19150,33,2026-02-28
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,14950,34,2026-03-31
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,466187,41,2024-03-06
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,15830,35,2026-04-30
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,15830,36,2026-05-31
 2,SD12,Gedaref,SD12084,Ar Rahad,Armed Clashes in Sudan (Overview),BA,15830,37,2026-06-30
@@ -15178,7 +15176,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD13,North Kordofan,SD13024,Sheikan,Armed Clashes in Sudan (Overview),BA,46372,11,2024-09-10
 2,SD13,North Kordofan,SD13024,Sheikan,Armed Clashes in Sudan (Overview),BA,46372,12,2024-09-30
 2,SD13,North Kordofan,SD13024,Sheikan,Armed Clashes in Sudan (Overview),BA,47282,13,2024-10-08
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,469297,42,2024-03-13
 2,SD13,North Kordofan,SD13024,Sheikan,Armed Clashes in Sudan (Overview),BA,47282,14,2024-10-22
 2,SD13,North Kordofan,SD13024,Sheikan,Armed Clashes in Sudan (Overview),BA,47938,15,2024-11-06
 2,SD13,North Kordofan,SD13024,Sheikan,Armed Clashes in Sudan (Overview),BA,48123,16,2024-11-21
@@ -15264,6 +15261,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3818,2,2023-12-31
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,3,2024-05-31
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,4,2024-06-11
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,325676,26,2023-10-19
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,5,2024-06-16
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,6,2024-07-03
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,7,2024-07-16
@@ -15282,7 +15280,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,20,2025-01-14
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,21,2025-01-28
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,22,2025-03-31
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,496523,43,2024-03-28
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,23,2025-04-30
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,24,2025-05-28
 2,SD13,North Kordofan,SD13025,Soudari,Armed Clashes in Sudan (Overview),BA,3968,25,2025-06-30
@@ -15369,6 +15366,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,32299,12,2024-09-30
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,32124,13,2024-10-08
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,32639,14,2024-10-22
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,334934,27,2023-11-07
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,33289,15,2024-11-06
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,33674,16,2024-11-21
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,33674,17,2024-12-03
@@ -15388,7 +15386,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,17653,31,2025-12-31
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,17503,32,2026-01-31
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,16693,33,2026-02-28
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,504578,44,2024-04-04
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,15628,34,2026-03-31
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,15413,35,2026-04-30
 2,SD13,North Kordofan,SD13026,Bara,Armed Clashes in Sudan (Overview),BA,14723,36,2026-05-31
@@ -15776,27 +15773,25 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,137145,8,2023-06-13
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,137145,9,2023-06-18
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,146655,10,2023-06-25
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,150510,11,2023-07-01
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,209200,12,2023-07-09
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,211011,13,2023-07-16
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,217426,14,2023-07-23
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,245896,15,2023-07-30
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,259934,16,2023-08-06
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,282352,17,2023-08-13
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,287062,18,2023-08-20
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,291684,19,2023-08-27
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,320632,20,2023-09-03
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,320632,21,2023-09-10
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,321082,22,2023-09-17
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,323881,23,2023-09-26
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,323736,24,2023-10-05
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,325411,25,2023-10-13
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,325676,26,2023-10-19
-1,SD14,Sennar,,,Armed Clashes in Sudan,BA,334934,27,2023-11-07
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,337788,28,2023-11-09
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,339134,29,2023-11-15
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,348599,30,2023-11-29
 1,SD14,Sennar,,,Armed Clashes in Sudan,BA,348659,31,2023-12-06
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,348689,32,2023-12-13
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,418336,33,2023-12-27
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,422499,34,2024-01-03
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,426503,35,2024-01-10
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,430962,36,2024-01-18
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,434707,37,2024-02-02
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,434707,38,2024-02-07
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,434707,39,2024-02-15
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,445383,40,2024-02-28
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,466187,41,2024-03-06
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,469297,42,2024-03-13
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,496523,43,2024-03-28
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,504578,44,2024-04-04
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,511106,45,2024-04-12
+1,SD14,Sennar,,,Armed Clashes in Sudan,BA,512186,46,2024-04-17
 1,SD14,Sennar,,,Armed Clashes in Sudan (Monthly),BA,327091,1,2023-09-30
 1,SD14,Sennar,,,Armed Clashes in Sudan (Monthly),BA,325836,2,2023-10-31
 1,SD14,Sennar,,,Armed Clashes in Sudan (Monthly),BA,348979,3,2023-11-30
@@ -18885,6 +18880,11 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,operation,assessment
 1,SD18,West Kordofan,,,Darfur conflict,BA,54184,69,2018-06-30
 1,SD18,West Kordofan,,,Darfur conflict,BA,54184,70,2018-08-30
 1,SD18,West Kordofan,,,Darfur conflict,BA,86535,0,2019-10-30
+1,SD18,West Kordofan,,,Darfur conflict,BA,73015,1,2020-01-30
+1,SD18,West Kordofan,,,Darfur conflict,BA,91343,2,2021-03-30
+1,SD18,West Kordofan,,,Darfur conflict,BA,100104,3,2021-12-31
+1,SD18,West Kordofan,,,Darfur conflict,BA,140213,4,2022-01-31
+1,SD18,West Kordofan,,,Darfur conflict,BA,140213,5,2022-03-30
 2,SD18,West Kordofan,SD18021,Ghubaish,Armed Clashes in Sudan,BA,4850,16,2023-08-06
 2,SD18,West Kordofan,SD18021,Ghubaish,Armed Clashes in Sudan,BA,4850,17,2023-08-13
 2,SD18,West Kordofan,SD18021,Ghubaish,Armed Clashes in Sudan,BA,4850,18,2023-08-20

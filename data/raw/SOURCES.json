@@ -3,7 +3,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Affected People: Internally-Displaced Persons for Sudan",
-  "updated": "2026-10-20",
+  "updated": "2026-11-04",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -19,7 +19,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Coordination & Context: Operational Presence for Sudan",
-  "updated": "2026-10-29",
+  "updated": "2026-11-04",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -27,7 +27,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Coordination & Context: Funding for Sudan",
-  "updated": "2026-10-31",
+  "updated": "2026-11-07",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -35,7 +35,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Coordination & Context: Conflict Events for Sudan",
-  "updated": "2026-10-31",
+  "updated": "2026-11-09",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -51,7 +51,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Food Security, Nutrition & Poverty: Food Security for Sudan",
-  "updated": "2026-10-16",
+  "updated": "2026-11-04",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -59,7 +59,7 @@
   "dataset": "HDX HAPI Data for Sudan",
   "org": "HDX Humanitarian API Data",
   "resource": "Climate: Rainfall for Sudan",
-  "updated": "2026-10-28",
+  "updated": "2026-11-04",
   "url": "https://data.humdata.org/dataset/hdx-hapi-sdn",
   "license": "Other"
  },
@@ -98,8 +98,8 @@
  "dtm": {
   "dataset": "Sudan: Displacement Situation - IDPs [IOM DTM]",
   "org": "International Organization for Migration (IOM)",
-  "resource": "DTM Sudan Displacement and Return Snapshot (8).xlsx",
-  "updated": "2026-08-24",
+  "resource": "DTM Sudan Displacement and Return Snapshot (10).xlsx",
+  "updated": "2026-11-04",
   "url": "https://data.humdata.org/dataset/sudan-displacement-situation-countrywide-idps-iom-dtm",
   "license": "Creative Commons Attribution International (CC BY)"
  },
@@ -107,9 +107,9 @@
   "dataset": "Sudan - Food Prices",
   "org": "WFP - World Food Programme",
   "resource": "Sudan - Food Prices",
-  "updated": "2026-10-19",
+  "updated": "2026-11-04",
   "url": "https://data.humdata.org/dataset/wfp-food-prices-for-sudan",
   "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)"
  },
- "_fetched": "2026-11-02"
+ "_fetched": "2026-11-09"
 }

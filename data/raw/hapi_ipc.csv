@@ -2088,7 +2088,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,all,second projection,221891,1.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,3+,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,1,second projection,0,0.0,2026-10-01,2027-01-31
-2,SD12,Gedaref,SD12084,Ar Rahad,3+,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,2,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,3,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12078,Al Galabat Al Gharbyah - Kassab,4,second projection,0,0.0,2026-10-01,2027-01-31
@@ -2150,6 +2149,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD12,Gedaref,SD12084,Ar Rahad,4,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD12,Gedaref,SD12084,Ar Rahad,5,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD12,Gedaref,SD12084,Ar Rahad,all,second projection,305024,1.0,2026-10-01,2027-01-31
+2,SD12,Gedaref,SD12084,Ar Rahad,3+,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12084,Ar Rahad,1,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12084,Ar Rahad,2,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD12,Gedaref,SD12084,Ar Rahad,3,second projection,0,0.0,2026-10-01,2027-01-31
@@ -5100,7 +5100,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD06,Central Darfur,SD06130,Mukjar,1,current,6799,0.15,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06130,Mukjar,2,current,18132,0.4,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06130,Mukjar,3,current,13599,0.3,2026-02-01,2026-05-31
-2,SD01,Khartoum,SD01001,Jebel Awlia,1,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD06,Central Darfur,SD06130,Mukjar,4,current,6799,0.15,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06130,Mukjar,5,current,0,0.0,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06130,Mukjar,all,first projection,45329,1.0,2026-06-01,2026-09-30
@@ -5143,6 +5142,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD06,Central Darfur,SD06138,Zalingi,1,current,38137,0.15,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06138,Zalingi,2,current,76273,0.3,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06138,Zalingi,3,current,88985,0.35,2026-02-01,2026-05-31
+2,SD01,Khartoum,SD01003,Bahri,3+,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD06,Central Darfur,SD06138,Zalingi,4,current,50849,0.2,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06138,Zalingi,5,current,0,0.0,2026-02-01,2026-05-31
 2,SD06,Central Darfur,SD06138,Zalingi,all,first projection,254244,1.0,2026-06-01,2026-09-30
@@ -5156,7 +5156,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD06,Central Darfur,SD06138,Zalingi,3+,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD06,Central Darfur,SD06138,Zalingi,1,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD06,Central Darfur,SD06138,Zalingi,2,second projection,0,0.0,2026-10-01,2027-01-31
-2,SD01,Khartoum,SD01001,Jebel Awlia,2,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD06,Central Darfur,SD06138,Zalingi,3,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD06,Central Darfur,SD06138,Zalingi,4,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD06,Central Darfur,SD06138,Zalingi,5,second projection,0,0.0,2026-10-01,2027-01-31
@@ -5259,7 +5258,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD01,Khartoum,SD01003,Bahri,4,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD01,Khartoum,SD01003,Bahri,5,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD01,Khartoum,SD01003,Bahri,all,second projection,494075,1.0,2026-10-01,2027-01-31
-2,SD01,Khartoum,SD01003,Bahri,3+,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD01,Khartoum,SD01003,Bahri,1,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD01,Khartoum,SD01003,Bahri,2,second projection,0,0.0,2026-10-01,2027-01-31
 2,SD01,Khartoum,SD01003,Bahri,3,second projection,0,0.0,2026-10-01,2027-01-31
@@ -5274,6 +5272,8 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD01,Khartoum,SD01001,Jebel Awlia,5,current,0,0.0,2026-02-01,2026-05-31
 2,SD01,Khartoum,SD01001,Jebel Awlia,all,first projection,1163559,1.0,2026-06-01,2026-09-30
 2,SD01,Khartoum,SD01001,Jebel Awlia,3+,first projection,0,0.0,2026-06-01,2026-09-30
+2,SD01,Khartoum,SD01001,Jebel Awlia,1,first projection,0,0.0,2026-06-01,2026-09-30
+2,SD01,Khartoum,SD01001,Jebel Awlia,2,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD01,Khartoum,SD01001,Jebel Awlia,3,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD01,Khartoum,SD01001,Jebel Awlia,4,first projection,0,0.0,2026-06-01,2026-09-30
 2,SD01,Khartoum,SD01001,Jebel Awlia,5,first projection,0,0.0,2026-06-01,2026-09-30
@@ -6414,7 +6414,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,3,first projection,12945,0.4,2025-10-01,2026-01-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,4,first projection,3236,0.1,2025-10-01,2026-01-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,5,first projection,0,0.0,2025-10-01,2026-01-31
-2,SD05,East Darfur,SD05140,Abu Jabrah,5,first projection,0,0.0,2025-10-01,2026-01-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,all,second projection,32363,1.0,2026-02-01,2026-05-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,3+,second projection,19417,0.6,2026-02-01,2026-05-31
 2,SD08,Blue Nile,SD08108,At Tadamon - BN,1,second projection,3236,0.1,2026-02-01,2026-05-31
@@ -6477,6 +6476,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD05,East Darfur,SD05140,Abu Jabrah,2,first projection,64999,0.35,2025-10-01,2026-01-31
 2,SD05,East Darfur,SD05140,Abu Jabrah,3,first projection,55713,0.3,2025-10-01,2026-01-31
 2,SD05,East Darfur,SD05140,Abu Jabrah,4,first projection,9285,0.05,2025-10-01,2026-01-31
+2,SD05,East Darfur,SD05140,Abu Jabrah,5,first projection,0,0.0,2025-10-01,2026-01-31
 2,SD05,East Darfur,SD05140,Abu Jabrah,all,second projection,185712,1.0,2026-02-01,2026-05-31
 2,SD05,East Darfur,SD05140,Abu Jabrah,3+,second projection,74284,0.4,2026-02-01,2026-05-31
 2,SD05,East Darfur,SD05140,Abu Jabrah,1,second projection,46428,0.25,2026-02-01,2026-05-31
@@ -8724,6 +8724,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD03,South Darfur,SD03143,Ed Al Fursan,3,first projection,27230,0.3,2025-10-01,2026-01-31
 2,SD03,South Darfur,SD03143,Ed Al Fursan,4,first projection,9076,0.1,2025-10-01,2026-01-31
 2,SD03,South Darfur,SD03143,Ed Al Fursan,5,first projection,0,0.0,2025-10-01,2026-01-31
+2,SD03,South Darfur,SD03149,Tulus,5,current,0,0.0,2025-09-01,2025-09-30
 2,SD03,South Darfur,SD03143,Ed Al Fursan,all,second projection,90768,1.0,2026-02-01,2026-05-31
 2,SD03,South Darfur,SD03143,Ed Al Fursan,3+,second projection,40845,0.45,2026-02-01,2026-05-31
 2,SD03,South Darfur,SD03143,Ed Al Fursan,1,second projection,22692,0.25,2026-02-01,2026-05-31
@@ -8842,7 +8843,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD03,South Darfur,SD03149,Tulus,2,current,82893,0.25,2025-09-01,2025-09-30
 2,SD03,South Darfur,SD03149,Tulus,3,current,132628,0.4,2025-09-01,2025-09-30
 2,SD03,South Darfur,SD03149,Tulus,4,current,66314,0.2,2025-09-01,2025-09-30
-2,SD03,South Darfur,SD03149,Tulus,5,current,0,0.0,2025-09-01,2025-09-30
 2,SD03,South Darfur,SD03149,Tulus,all,first projection,331572,1.0,2025-10-01,2026-01-31
 2,SD03,South Darfur,SD03149,Tulus,3+,first projection,165785,0.5,2025-10-01,2026-01-31
 2,SD03,South Darfur,SD03149,Tulus,1,first projection,66314,0.2,2025-10-01,2026-01-31
@@ -10953,6 +10953,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD18,West Kordofan,,,all,second projection,293496,1.0,2024-12-01,2025-05-31
 2,SD18,West Kordofan,,,3+,second projection,146748,0.5,2024-12-01,2025-05-31
 2,SD18,West Kordofan,,,1,second projection,44024,0.15,2024-12-01,2025-05-31
+2,SD08,Blue Nile,SD08106,Al Kurmuk,3,first projection,30233,0.35,2024-10-01,2024-11-30
 2,SD18,West Kordofan,,,2,second projection,102724,0.35,2024-12-01,2025-05-31
 2,SD18,West Kordofan,,,3,second projection,88049,0.3,2024-12-01,2025-05-31
 2,SD18,West Kordofan,,,4,second projection,58699,0.2,2024-12-01,2025-05-31
@@ -11027,7 +11028,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD15,Aj Jazirah,,,2,first projection,729402,0.2,2024-10-01,2024-11-30
 2,SD15,Aj Jazirah,,,3,first projection,1458804,0.4,2024-10-01,2024-11-30
 2,SD15,Aj Jazirah,,,4,first projection,1239983,0.34,2024-10-01,2024-11-30
-2,SD08,Blue Nile,SD08107,Ar Rusayris,5,first projection,0,0.0,2024-10-01,2024-11-30
 2,SD15,Aj Jazirah,,,5,first projection,36470,0.01,2024-10-01,2024-11-30
 2,SD15,Aj Jazirah,,,all,second projection,3647010,1.0,2024-12-01,2025-05-31
 2,SD15,Aj Jazirah,,,3+,second projection,2735258,0.75,2024-12-01,2025-05-31
@@ -11068,7 +11068,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD08,Blue Nile,SD08106,Al Kurmuk,3+,first projection,43190,0.5,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08106,Al Kurmuk,1,first projection,12957,0.15,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08106,Al Kurmuk,2,first projection,30233,0.35,2024-10-01,2024-11-30
-2,SD08,Blue Nile,SD08106,Al Kurmuk,3,first projection,30233,0.35,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08106,Al Kurmuk,4,first projection,12957,0.15,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08106,Al Kurmuk,5,first projection,0,0.0,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08106,Al Kurmuk,all,second projection,86380,1.0,2024-12-01,2025-05-31
@@ -11084,6 +11083,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD08,Blue Nile,SD08107,Ar Rusayris,2,first projection,100780,0.4,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08107,Ar Rusayris,3,first projection,75585,0.3,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08107,Ar Rusayris,4,first projection,25195,0.1,2024-10-01,2024-11-30
+2,SD08,Blue Nile,SD08107,Ar Rusayris,5,first projection,0,0.0,2024-10-01,2024-11-30
 2,SD08,Blue Nile,SD08107,Ar Rusayris,all,second projection,251949,1.0,2024-12-01,2025-05-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,3+,second projection,100780,0.4,2024-12-01,2025-05-31
 2,SD08,Blue Nile,SD08107,Ar Rusayris,1,second projection,50390,0.2,2024-12-01,2025-05-31
@@ -11196,7 +11196,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD03,South Darfur,,,3,first projection,226821,0.35,2024-10-01,2024-11-30
 2,SD03,South Darfur,,,4,first projection,226821,0.35,2024-10-01,2024-11-30
 2,SD03,South Darfur,,,5,first projection,32403,0.05,2024-10-01,2024-11-30
-2,SD11,Kassala,,,3,first projection,115981,0.3,2024-10-01,2024-11-30
 2,SD03,South Darfur,,,all,second projection,648061,1.0,2024-12-01,2025-05-31
 2,SD03,South Darfur,,,3+,second projection,487563,0.75,2024-12-01,2025-05-31
 2,SD03,South Darfur,,,1,second projection,64806,0.1,2024-12-01,2025-05-31
@@ -11287,6 +11286,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD13,North Kordofan,,,2,second projection,249221,0.45,2024-12-01,2025-05-31
 2,SD13,North Kordofan,,,3,second projection,165408,0.3,2024-12-01,2025-05-31
 2,SD13,North Kordofan,,,4,second projection,55136,0.1,2024-12-01,2025-05-31
+2,SD11,Kassala,SD11053,Madeinat Kassala,all,first projection,586321,1.0,2024-10-01,2024-11-30
 2,SD13,North Kordofan,,,5,second projection,0,0.0,2024-12-01,2025-05-31
 2,SD13,North Kordofan,SD13024,Sheikan,all,first projection,564440,1.0,2024-10-01,2024-11-30
 2,SD13,North Kordofan,SD13024,Sheikan,3+,first projection,253998,0.45,2024-10-01,2024-11-30
@@ -11342,6 +11342,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD02,North Darfur,,,1,second projection,70022,0.15,2024-12-01,2025-05-31
 2,SD02,North Darfur,,,2,second projection,140045,0.3,2024-12-01,2025-05-31
 2,SD02,North Darfur,,,3,second projection,163385,0.35,2024-12-01,2025-05-31
+2,SD11,Kassala,SD11053,Madeinat Kassala,3+,first projection,293160,0.5,2024-10-01,2024-11-30
 2,SD02,North Darfur,,,4,second projection,93363,0.2,2024-12-01,2025-05-31
 2,SD02,North Darfur,,,5,second projection,0,0.0,2024-12-01,2025-05-31
 2,SD02,North Darfur,SD02114,Al Fasher,all,first projection,315660,1.0,2024-10-01,2024-11-30
@@ -11512,8 +11513,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD11,Kassala,SD11058,Reifi Hamashkureib,3,second projection,141999,0.35,2024-12-01,2025-05-31
 2,SD11,Kassala,SD11058,Reifi Hamashkureib,4,second projection,81142,0.2,2024-12-01,2025-05-31
 2,SD11,Kassala,SD11058,Reifi Hamashkureib,5,second projection,0,0.0,2024-12-01,2025-05-31
-2,SD11,Kassala,SD11053,Madeinat Kassala,all,first projection,586321,1.0,2024-10-01,2024-11-30
-2,SD11,Kassala,SD11053,Madeinat Kassala,3+,first projection,293160,0.5,2024-10-01,2024-11-30
 2,SD11,Kassala,SD11053,Madeinat Kassala,1,first projection,58632,0.1,2024-10-01,2024-11-30
 2,SD11,Kassala,SD11053,Madeinat Kassala,2,first projection,234528,0.4,2024-10-01,2024-11-30
 2,SD11,Kassala,SD11053,Madeinat Kassala,3,first projection,205212,0.35,2024-10-01,2024-11-30
@@ -11530,6 +11529,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD11,Kassala,,,3+,first projection,154641,0.4,2024-10-01,2024-11-30
 2,SD11,Kassala,,,1,first projection,96651,0.25,2024-10-01,2024-11-30
 2,SD11,Kassala,,,2,first projection,135311,0.35,2024-10-01,2024-11-30
+2,SD11,Kassala,,,3,first projection,115981,0.3,2024-10-01,2024-11-30
 2,SD11,Kassala,,,4,first projection,38660,0.1,2024-10-01,2024-11-30
 2,SD11,Kassala,,,5,first projection,0,0.0,2024-10-01,2024-11-30
 2,SD11,Kassala,,,all,second projection,386603,1.0,2024-12-01,2025-05-31
@@ -12226,6 +12226,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD06,Central Darfur,,,4,current,156358,0.2,2024-04-01,2024-05-31
 2,SD06,Central Darfur,,,5,current,0,0.0,2024-04-01,2024-05-31
 2,SD06,Central Darfur,,,all,first projection,781791,1.0,2024-06-01,2024-09-30
+2,SD12,Gedaref,SD12075,Al Fashaga,3,current,43394,0.3,2024-04-01,2024-05-31
 2,SD06,Central Darfur,,,3+,first projection,469075,0.6,2024-06-01,2024-09-30
 2,SD06,Central Darfur,,,1,first projection,78179,0.1,2024-06-01,2024-09-30
 2,SD06,Central Darfur,,,2,first projection,234537,0.3,2024-06-01,2024-09-30
@@ -12285,7 +12286,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD12,Gedaref,SD12075,Al Fashaga,3+,current,50626,0.35,2024-04-01,2024-05-31
 2,SD12,Gedaref,SD12075,Al Fashaga,1,current,43394,0.3,2024-04-01,2024-05-31
 2,SD12,Gedaref,SD12075,Al Fashaga,2,current,50626,0.35,2024-04-01,2024-05-31
-2,SD12,Gedaref,SD12075,Al Fashaga,3,current,43394,0.3,2024-04-01,2024-05-31
 2,SD12,Gedaref,SD12075,Al Fashaga,4,current,7232,0.05,2024-04-01,2024-05-31
 2,SD12,Gedaref,SD12075,Al Fashaga,5,current,0,0.0,2024-04-01,2024-05-31
 2,SD12,Gedaref,SD12075,Al Fashaga,all,first projection,144647,1.0,2024-06-01,2024-09-30
@@ -13530,6 +13530,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD15,Aj Jazirah,,,all,first projection,1514681,1.0,2024-06-01,2024-09-30
 2,SD15,Aj Jazirah,,,3+,first projection,833074,0.55,2024-06-01,2024-09-30
 2,SD15,Aj Jazirah,,,1,first projection,151468,0.1,2024-06-01,2024-09-30
+2,SD18,West Kordofan,SD18085,Keilak,4,second projection,8081,0.1,2024-10-01,2025-02-28
 2,SD15,Aj Jazirah,,,2,first projection,530138,0.35,2024-06-01,2024-09-30
 2,SD15,Aj Jazirah,,,3,first projection,454404,0.3,2024-06-01,2024-09-30
 2,SD15,Aj Jazirah,,,4,first projection,378670,0.25,2024-06-01,2024-09-30
@@ -13644,7 +13645,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD18,West Kordofan,SD18085,Keilak,1,second projection,12122,0.15,2024-10-01,2025-02-28
 2,SD18,West Kordofan,SD18085,Keilak,2,second projection,32324,0.4,2024-10-01,2025-02-28
 2,SD18,West Kordofan,SD18085,Keilak,3,second projection,28284,0.35,2024-10-01,2025-02-28
-2,SD18,West Kordofan,SD18085,Keilak,4,second projection,8081,0.1,2024-10-01,2025-02-28
 2,SD18,West Kordofan,SD18085,Keilak,5,second projection,0,0.0,2024-10-01,2025-02-28
 2,SD18,West Kordofan,SD18100,Babanusa,all,current,16701,1.0,2024-04-01,2024-05-31
 2,SD18,West Kordofan,SD18100,Babanusa,3+,current,10020,0.6,2024-04-01,2024-05-31
@@ -17457,6 +17457,7 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD13,North Kordofan,SD13023,Um Rawaba,all,current,387019,1.0,2023-06-01,2023-06-30
 2,SD13,North Kordofan,SD13023,Um Rawaba,3+,current,96753,0.25,2023-06-01,2023-06-30
 2,SD13,North Kordofan,SD13023,Um Rawaba,1,current,116105,0.3,2023-06-01,2023-06-30
+2,SD18,West Kordofan,SD18105,Al Khiwai,3+,first projection,42660,0.45,2023-07-01,2023-09-30
 2,SD13,North Kordofan,SD13023,Um Rawaba,2,current,174158,0.45,2023-06-01,2023-06-30
 2,SD13,North Kordofan,SD13023,Um Rawaba,3,current,77403,0.2,2023-06-01,2023-06-30
 2,SD13,North Kordofan,SD13023,Um Rawaba,4,current,19350,0.05,2023-06-01,2023-06-30
@@ -17518,7 +17519,6 @@ admin_level,admin1_code,admin1_name,admin2_code,admin2_name,ipc_phase,ipc_type,p
 2,SD18,West Kordofan,SD18105,Al Khiwai,4,current,14220,0.15,2023-06-01,2023-06-30
 2,SD18,West Kordofan,SD18105,Al Khiwai,5,current,0,0.0,2023-06-01,2023-06-30
 2,SD18,West Kordofan,SD18105,Al Khiwai,all,first projection,94801,1.0,2023-07-01,2023-09-30
-2,SD18,West Kordofan,SD18105,Al Khiwai,3+,first projection,42660,0.45,2023-07-01,2023-09-30
 2,SD18,West Kordofan,SD18105,Al Khiwai,1,first projection,18960,0.2,2023-07-01,2023-09-30
 2,SD18,West Kordofan,SD18105,Al Khiwai,2,first projection,33180,0.35,2023-07-01,2023-09-30
 2,SD18,West Kordofan,SD18105,Al Khiwai,3,first projection,28440,0.3,2023-07-01,2023-09-30
