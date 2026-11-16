@@ -14966,3 +14966,162 @@ date,admin1,admin2,market,market_id,latitude,longitude,category,commodity,unit,p
 2026-09-15,White Nile,Kosti,Kosti,1032,13.17,32.67,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,12875,21.45
 2026-09-15,White Nile,Kosti,Kosti,1032,13.17,32.67,vegetables and fruits,Onions,KG,actual,Retail,SDG,8625,14.37
 2026-09-15,White Nile,Kosti,Kosti,1032,13.17,32.67,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,20375,33.95
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,27438,45.72
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,23219,38.69
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,7500,12.5
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,52875,88.1
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,66250,110.39
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,milk and dairy,Milk (powder),KG,actual,Retail,SDG,61000,101.64
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,3750,6.25
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,miscellaneous food,Sugar,KG,actual,Retail,SDG,8250,13.75
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,oil and fats,Oil (vegetable),L,actual,Retail,SDG,30250,50.4
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,16100,26.83
+2026-10-15,Al Gezira,Wad Madani El Kobra,Wad Medani,5640,14.4,33.52,vegetables and fruits,Onions,KG,actual,Retail,SDG,3338,5.56
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,20031,33.38
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,14625,24.37
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,7125,11.87
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,39000,64.98
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,63750,106.22
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,milk and dairy,Milk (powder),KG,actual,Retail,SDG,59875,99.76
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,9406,15.67
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,miscellaneous food,Sugar,KG,actual,Retail,SDG,8969,14.94
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,oil and fats,Oil (vegetable),L,actual,Retail,SDG,44656,74.41
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,16906,28.17
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,vegetables and fruits,Onions,KG,actual,Retail,SDG,10031,16.71
+2026-10-15,Blue Nile,Damazin,Damazin,1026,11.79,34.36,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,33975,56.61
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,12935,21.55
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,9625,16.04
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6319,10.53
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,15500,25.83
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,23625,39.36
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,milk and dairy,Milk (powder),KG,actual,Retail,SDG,35083,58.46
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,6456,10.76
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,miscellaneous food,Sugar,KG,actual,Retail,SDG,7250,12.08
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,oil and fats,Oil (vegetable),L,actual,Retail,SDG,11344,18.9
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,9444,15.74
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,vegetables and fruits,Onions,KG,actual,Retail,SDG,1269,2.11
+2026-10-15,Central Darfur,Zalingei,Zalingi,1824,12.9,23.48,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,12425,20.7
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,16000,26.66
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,9688,16.14
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,cereals and tubers,Sorghum (food aid),3 KG,actual,Retail,SDG,8875,14.79
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,8000,13.33
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,8500,14.16
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,14500,24.16
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,milk and dairy,Milk (powder),KG,actual,Retail,SDG,55000,91.64
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,9000,15
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,miscellaneous food,Sugar,KG,actual,Retail,SDG,7500,12.5
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,oil and fats,Oil (vegetable),L,actual,Retail,SDG,16000,26.66
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,14000,23.33
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,vegetables and fruits,Onions,KG,actual,Retail,SDG,3000,5
+2026-10-15,Eastern Darfur,Ed Daein,Eddein,1027,11.43,26.15,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,14000,23.33
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,28208,47
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,25333,42.21
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,9975,16.62
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,48550,80.89
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,57250,95.39
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,milk and dairy,Milk (powder),KG,actual,Retail,SDG,61325,102.18
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,1875,3.12
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,miscellaneous food,Sugar,KG,actual,Retail,SDG,8800,14.66
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,oil and fats,Oil (vegetable),L,actual,Retail,SDG,31650,52.74
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,15175,25.28
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,vegetables and fruits,Onions,KG,actual,Retail,SDG,5600,9.33
+2026-10-15,Kassala,Kassala,Kassala,1031,15.46,36.4,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,18650,31.07
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,14250,23.74
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,10500,17.5
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6375,10.62
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,38125,63.52
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,50000,83.31
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,milk and dairy,Milk (powder),KG,actual,Retail,SDG,60125,100.18
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,1531,2.55
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,miscellaneous food,Sugar,KG,actual,Retail,SDG,7438,12.39
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,non-food,Exchange rate (unofficial),USD/LCU,actual,Retail,SDG,9250,15.41
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,oil and fats,Oil (vegetable),L,actual,Retail,SDG,27375,45.61
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,7656,12.76
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,vegetables and fruits,Onions,KG,actual,Retail,SDG,2500,4.17
+2026-10-15,Khartoum,Jebal Aulya,Khartoum,2588,15.51,32.54,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,23250,38.74
+2026-10-15,North Darfur,El Fasher,Al Fashir,1025,13.63,25.35,cereals and tubers,Sorghum (food aid),3 KG,actual,Retail,SDG,13625,22.7
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,27250,45.4
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,17125,28.53
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,cereals and tubers,Sorghum (food aid),3 KG,actual,Retail,SDG,12625,21.04
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6781,11.3
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,37625,62.69
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,51563,85.91
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,milk and dairy,Milk (powder),KG,actual,Retail,SDG,59375,98.93
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,3900,6.5
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,miscellaneous food,Sugar,KG,actual,Retail,SDG,8563,14.27
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,oil and fats,Oil (vegetable),L,actual,Retail,SDG,28250,47.07
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,15000,24.99
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,vegetables and fruits,Onions,KG,actual,Retail,SDG,4291,7.15
+2026-10-15,North Kordofan,Shiekan,El Obeid,1029,13.19,30.22,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,23750,39.57
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,23313,38.84
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,22563,37.59
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6394,10.65
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,46250,77.06
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,67813,112.99
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,milk and dairy,Milk (powder),KG,actual,Retail,SDG,57500,95.81
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,3281,5.47
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,miscellaneous food,Sugar,KG,actual,Retail,SDG,8925,14.87
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,oil and fats,Oil (vegetable),L,actual,Retail,SDG,19500,32.49
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,14938,24.89
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,vegetables and fruits,Onions,KG,actual,Retail,SDG,2681,4.47
+2026-10-15,Northern,Dongola,Dongola,2577,19.17,30.47,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,15000,24.99
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,35956,59.91
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,22811,38.01
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6813,11.35
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,39000,64.98
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,62563,104.24
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,milk and dairy,Milk (powder),KG,actual,Retail,SDG,65625,109.34
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,6750,11.25
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,miscellaneous food,Sugar,KG,actual,Retail,SDG,8625,14.37
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,oil and fats,Oil (vegetable),L,actual,Retail,SDG,34281,57.12
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,13688,22.81
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,vegetables and fruits,Onions,KG,actual,Retail,SDG,5188,8.64
+2026-10-15,Red Sea,Port Sudan,Port Sudan,1034,19.62,37.22,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,33063,55.09
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,32875,54.78
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,17000,28.33
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6875,11.46
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,42250,70.4
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,75125,125.17
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,milk and dairy,Milk (powder),KG,actual,Retail,SDG,46250,77.06
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,2000,3.33
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,miscellaneous food,Sugar,KG,actual,Retail,SDG,8594,14.32
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,oil and fats,Oil (vegetable),L,actual,Retail,SDG,23000,38.32
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,15000,24.99
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,vegetables and fruits,Onions,KG,actual,Retail,SDG,6188,10.31
+2026-10-15,Sennar,Sinjja,Singa,9031,13.14,33.93,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,25000,41.65
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,20000,33.32
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,9375,15.62
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,5525,9.21
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,39250,65.4
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,58250,97.06
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,4625,7.71
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,miscellaneous food,Sugar,KG,actual,Retail,SDG,10250,17.08
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,oil and fats,Oil (vegetable),L,actual,Retail,SDG,30500,50.82
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,20375,33.95
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,vegetables and fruits,Onions,KG,actual,Retail,SDG,9775,16.29
+2026-10-15,South Kordofan,Kadugli,Kadugli,1030,11.02,29.72,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,19250,32.07
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,13650,22.74
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,10333,17.22
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,cereals and tubers,Sorghum (food aid),3 KG,actual,Retail,SDG,10333,17.22
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,6688,11.14
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,18875,31.45
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,24375,40.61
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,milk and dairy,Milk (powder),KG,actual,Retail,SDG,31938,53.21
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,15313,25.51
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,miscellaneous food,Sugar,KG,actual,Retail,SDG,6000,1
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,oil and fats,Oil (vegetable),L,actual,Retail,SDG,15563,25.93
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,9250,15.41
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,vegetables and fruits,Onions,KG,actual,Retail,SDG,3125,5.21
+2026-10-15,West Darfur,El Geneina,El Geneina,1028,13.45,22.45,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,19688,32.8
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,cereals and tubers,Millet,3.5 KG,actual,Retail,SDG,24667,41.1
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,cereals and tubers,Sorghum,3 KG,actual,Retail,SDG,17625,29.37
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,cereals and tubers,Wheat flour,KG,actual,Retail,SDG,8269,13.78
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,"meat, fish and eggs",Meat (beef),KG,actual,Retail,SDG,41500,69.15
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,"meat, fish and eggs",Meat (goat),KG,actual,Retail,SDG,60313,100.49
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,milk and dairy,Milk (powder),KG,actual,Retail,SDG,62813,104.66
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,miscellaneous food,Salt (iodised),KG,actual,Retail,SDG,2000,3.33
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,miscellaneous food,Sugar,KG,actual,Retail,SDG,8344,13.9
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,oil and fats,Oil (vegetable),L,actual,Retail,SDG,29625,49.36
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,pulses and nuts,"Beans (fava, egyptian)",KG,actual,Retail,SDG,17000,28.33
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,vegetables and fruits,Onions,KG,actual,Retail,SDG,5100,8.5
+2026-10-15,White Nile,Kosti,Kosti,1032,13.17,32.67,vegetables and fruits,Tomatoes (dried),KG,actual,Retail,SDG,25688,42.8
